@@ -2240,13 +2240,11 @@ function Api_Action(RouteCollectorProxyInterface $app): void
 {
     // Content по page_url (slug) и языку
     $app->get('/content/{page_url}', function ($request, $response, $args) {
-
         $pageUrl = $args['page_url'];
         $params = $request->getQueryParams();
         $languageCode = $params['language_code'] ?? null;
         $baseDomain = '996.kg';
 
-        // Экранирование через полные имена (без use внутри замыкания)
         $quotedPageUrl = \PHPMaker2025\backoffice996\QuotedValue($pageUrl, \PHPMaker2025\backoffice996\DataType::STRING, 'DB');
         $quotedDomain = \PHPMaker2025\backoffice996\QuotedValue($baseDomain, \PHPMaker2025\backoffice996\DataType::STRING, 'DB');
 
@@ -2274,7 +2272,6 @@ function Api_Action(RouteCollectorProxyInterface $app): void
             return $response->withStatus(404)->withJson(['error' => 'Контент не найден']);
         }
 
-        // Формируем результат
         $result = [
             'id' => $rows[0]['id'],
             'image' => $rows[0]['image']
@@ -2307,12 +2304,10 @@ function Api_Action(RouteCollectorProxyInterface $app): void
         $burgerOnly = isset($params['burger']) && $params['burger'] === 'Y';
         $baseDomain = '996.kg';
 
-        // Валидация формата языка (например: ru-RU, en-US)
         if ($language && !preg_match('/^[a-z]{2}(-[A-Z]{2})?$/', $language)) {
             return $response->withStatus(400)->withJson(['error' => 'Неверный формат language (ожидается: ru-RU, en-US)']);
         }
 
-        // Экранирование
         $quotedDomain = \PHPMaker2025\backoffice996\QuotedValue($baseDomain, \PHPMaker2025\backoffice996\DataType::STRING, 'DB');
 
         $sql = "
@@ -2345,7 +2340,6 @@ function Api_Action(RouteCollectorProxyInterface $app): void
             LEFT JOIN content_translations ct ON c.id = ct.content_id
         ";
 
-        // Фильтр по языку — для уровней и контента
         if ($language) {
             $quotedLang = \PHPMaker2025\backoffice996\QuotedValue($language, \PHPMaker2025\backoffice996\DataType::STRING, 'DB');
             $sql .= " WHERE clt.language_code = $quotedLang ";
@@ -2354,7 +2348,6 @@ function Api_Action(RouteCollectorProxyInterface $app): void
             $sql .= " WHERE 1=1 ";
         }
 
-        // Фильтр "только для бургера"
         if ($burgerOnly) {
             $sql .= " AND c.burger = 'Y' ";
         }
@@ -2379,7 +2372,6 @@ function Api_Action(RouteCollectorProxyInterface $app): void
                 ];
             }
 
-            // Добавляем страницу, только если она существует
             if ($row['content_id']) {
                 $imageUrl = $row['image']
                     ? 'https://cms.' . $baseDomain . '/uploads/content/' . $row['image']
@@ -2409,23 +2401,20 @@ function Api_Action(RouteCollectorProxyInterface $app): void
         return $response->withJson(array_values($result));
     });
 
-
-    // Journal — список с пагинацией
-    $app->get('/journal', function ($request, $response) {
+    // Journal — рекомендованные записи (СТАТИЧЕСКИЙ РОУТ — должен быть ПЕРВЫМ!)
+    $app->get('/journal/recommended', function ($request, $response) {
         $params = $request->getQueryParams();
         $languageCode = $params['language_code'] ?? null;
-        $page = max(1, (int)($params['page'] ?? 1));
-        $limit = min(50, max(1, (int)($params['limit'] ?? 10)));
-        $offset = ($page - 1) * $limit;
+        $limit = 5;
         $baseDomain = '996.kg';
 
-        // Без use — только полные имена
         $quotedDomain = \PHPMaker2025\backoffice996\QuotedValue($baseDomain, \PHPMaker2025\backoffice996\DataType::STRING, 'DB');
+        $quotedLimit = \PHPMaker2025\backoffice996\QuotedValue($limit, \PHPMaker2025\backoffice996\DataType::NUMBER, 'DB');
 
         $sql = "
             SELECT 
-                j.id, j.image, j.is_active, j.page_url, j.type_id, j.category_id, j.created_at, j.updated_at,
-                jt.language_code, jt.title, jt.description, jt.keywords, jt.text
+                j.id, j.image, j.page_url,
+                jt.language_code, jt.title, jt.description
             FROM journal j
             INNER JOIN journal_translations jt ON j.id = jt.journal_id
             WHERE j.domain = $quotedDomain
@@ -2437,45 +2426,35 @@ function Api_Action(RouteCollectorProxyInterface $app): void
             $sql .= " AND jt.language_code = $quotedLang ";
         }
 
-        $sql .= " ORDER BY j.created_at DESC LIMIT $limit OFFSET $offset";
+        $sql .= " ORDER BY j.created_at DESC LIMIT $quotedLimit";
 
         $rows = ExecuteRows($sql);
 
         if (!$rows) {
-            return $response->withStatus(404)->withJson(['error' => 'Записи не найдены']);
+            return $response->withStatus(404)->withJson(['error' => 'Рекомендованные записи не найдены']);
         }
 
         $result = [];
         foreach ($rows as $row) {
-            $id = $row['id'];
-            if (!isset($result[$id])) {
-                $result[$id] = [
-                    'id' => $id,
-                    'image' => $row['image']
-                        ? 'https://cms.996.kg/uploads/journal/' . $row['image']
-                        : null,
-                    'is_active' => $row['is_active'],
-                    'page_url' => $row['page_url'],
-                    'type_id' => $row['type_id'],
-                    'category_id' => $row['category_id'],
-                    'created_at' => $row['created_at'],
-                    'updated_at' => $row['updated_at'],
-                    'translations' => []
-                ];
-            }
-            $result[$id]['translations'][$row['language_code']] = [
+            $imageUrl = $row['image']
+                ? 'https://cms.996.kg/uploads/journal/' . $row['image']
+                : null;
+
+            $result[] = [
+                'id' => $row['id'],
+                'image' => $imageUrl,
+                'page_url' => $row['page_url'],
                 'title' => $row['title'],
                 'description' => $row['description'],
-                'keywords' => $row['keywords'],
-                'text' => $row['text']
+                'language_code' => $row['language_code']
             ];
         }
 
-        return $response->withJson(array_values($result));
+        return $response->withJson($result);
     });
 
-    // Journal — детальная страница по ID
-    $app->get('/journal/{id}', function ($request, $response, $args) {
+    // Journal — детальная запись по ID (только цифры!)
+    $app->get('/journal/{id:[0-9]+}', function ($request, $response, $args) {
         $id = (int)$args['id'];
         $params = $request->getQueryParams();
         $languageCode = $params['language_code'] ?? null;
@@ -2508,11 +2487,13 @@ function Api_Action(RouteCollectorProxyInterface $app): void
             return $response->withStatus(404)->withJson(['error' => 'Журнал не найден']);
         }
 
+        $imageUrl = $rows[0]['image']
+            ? 'https://cms.996.kg/uploads/journal/' . $rows[0]['image']
+            : null;
+
         $result = [
             'id' => $rows[0]['id'],
-            'image' => $rows[0]['image']
-                ? 'https://cms.996.kg/uploads/journal/' . $rows[0]['image']
-                : null,
+            'image' => $imageUrl,
             'is_active' => $rows[0]['is_active'],
             'page_url' => $rows[0]['page_url'],
             'type_id' => $rows[0]['type_id'],
@@ -2534,19 +2515,23 @@ function Api_Action(RouteCollectorProxyInterface $app): void
         return $response->withJson($result);
     });
 
-    // Journal — рекомендованные записи
-    $app->get('/journal/recommended', function ($request, $response) {
+    // Journal — список с пагинацией
+    $app->get('/journal', function ($request, $response) {
         $params = $request->getQueryParams();
         $languageCode = $params['language_code'] ?? null;
-        $limit = 5;
+        $page = max(1, (int)($params['page'] ?? 1));
+        $limit = min(50, max(1, (int)($params['limit'] ?? 10)));
+        $offset = ($page - 1) * $limit;
         $baseDomain = '996.kg';
 
         $quotedDomain = \PHPMaker2025\backoffice996\QuotedValue($baseDomain, \PHPMaker2025\backoffice996\DataType::STRING, 'DB');
+        $quotedLimit = \PHPMaker2025\backoffice996\QuotedValue($limit, \PHPMaker2025\backoffice996\DataType::NUMBER, 'DB');
+        $quotedOffset = \PHPMaker2025\backoffice996\QuotedValue($offset, \PHPMaker2025\backoffice996\DataType::NUMBER, 'DB');
 
         $sql = "
             SELECT 
-                j.id, j.image, j.page_url,
-                jt.language_code, jt.title, jt.description
+                j.id, j.image, j.is_active, j.page_url, j.type_id, j.category_id, j.created_at, j.updated_at,
+                jt.language_code, jt.title, jt.description, jt.keywords, jt.text
             FROM journal j
             INNER JOIN journal_translations jt ON j.id = jt.journal_id
             WHERE j.domain = $quotedDomain
@@ -2558,40 +2543,53 @@ function Api_Action(RouteCollectorProxyInterface $app): void
             $sql .= " AND jt.language_code = $quotedLang ";
         }
 
-        $sql .= " ORDER BY j.created_at DESC LIMIT $limit";
+        $sql .= " ORDER BY j.created_at DESC LIMIT $quotedLimit OFFSET $quotedOffset";
 
         $rows = ExecuteRows($sql);
 
         if (!$rows) {
-            return $response->withStatus(404)->withJson(['error' => 'Рекомендованные записи не найдены']);
+            return $response->withStatus(404)->withJson(['error' => 'Записи не найдены']);
         }
 
         $result = [];
         foreach ($rows as $row) {
-            $result[] = [
-                'id' => $row['id'],
-                'image' => $row['image']
+            $id = $row['id'];
+            if (!isset($result[$id])) {
+                $imageUrl = $row['image']
                     ? 'https://cms.996.kg/uploads/journal/' . $row['image']
-                    : null,
-                'page_url' => $row['page_url'],
+                    : null;
+
+                $result[$id] = [
+                    'id' => $id,
+                    'image' => $imageUrl,
+                    'is_active' => $row['is_active'],
+                    'page_url' => $row['page_url'],
+                    'type_id' => $row['type_id'],
+                    'category_id' => $row['category_id'],
+                    'created_at' => $row['created_at'],
+                    'updated_at' => $row['updated_at'],
+                    'translations' => []
+                ];
+            }
+            $result[$id]['translations'][$row['language_code']] = [
                 'title' => $row['title'],
                 'description' => $row['description'],
-                'language_code' => $row['language_code']
+                'keywords' => $row['keywords'],
+                'text' => $row['text']
             ];
         }
 
-        return $response->withJson($result);
+        return $response->withJson(array_values($result));
     });
 
-    // Banners — получить активные баннеры с фильтрами
+    // Banners — активные баннеры с фильтрами
     $app->get('/banners', function ($request, $response) {
         $params = $request->getQueryParams();
         $domain = $params['domain'] ?? '996.kg';
         $cityId = $params['city_id'] ?? null;
-        $pages = $params['pages'] ?? null;  // Например: 'home'
-        $types = $params['types'] ?? null;  // Например: 'top'
+        $pages = $params['pages'] ?? null;
+        $types = $params['types'] ?? null;
 
-        // Экранирование через полные имена
         $quotedDomain = \PHPMaker2025\backoffice996\QuotedValue($domain, \PHPMaker2025\backoffice996\DataType::STRING, 'DB');
 
         $sql = "
@@ -2608,7 +2606,6 @@ function Api_Action(RouteCollectorProxyInterface $app): void
         }
 
         if ($pages) {
-            // Используем LIKE для проверки вхождения в строку (например, pages='home,about')
             $quotedPages = \PHPMaker2025\backoffice996\QuotedValue("%" . $pages . "%", \PHPMaker2025\backoffice996\DataType::STRING, 'DB');
             $sql .= " AND pages LIKE $quotedPages ";
         }
@@ -2628,18 +2625,19 @@ function Api_Action(RouteCollectorProxyInterface $app): void
 
         $result = [];
         foreach ($rows as $row) {
+            $link = trim($row['link']);
             $imageUrl = $row['image']
-                ? 'https://cms.996.kg/uploads/banners/' . $row['image']
+                ? 'https://cms.996.kg/uploads/' . $row['image']
                 : null;
 
             $result[] = [
                 'id' => $row['id'],
                 'domain' => $row['domain'],
                 'city_id' => $row['city_id'],
-                'link' => $row['link'],
+                'link' => $link,
                 'image' => $imageUrl,
-                'pages' => $row['pages'],     // можно разбить на массив, если нужно
-                'types' => $row['types'],     // можно разбить на массив, если нужно
+                'pages' => $row['pages'],
+                'types' => $row['types'],
                 'position' => $row['position'],
                 'created_at' => $row['created_at'],
                 'updated_at' => $row['updated_at']
@@ -2648,8 +2646,6 @@ function Api_Action(RouteCollectorProxyInterface $app): void
 
         return $response->withJson($result);
     });
-    
-        
 }]]></CustomScript>
   <Menu MenuID="50" MenuText="news" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="news" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="100" MenuIconClass="fas fa-newspaper" MenuNavbar="0" />
   <Menu MenuID="51" MenuText="news translations" MenuParentID="50" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="news_translations" MenuType="" MenuCustomUrl="0" MenuLevel="1" MenuShow="0" MenuDisplayOrder="200" MenuIconClass="" MenuNavbar="0" />

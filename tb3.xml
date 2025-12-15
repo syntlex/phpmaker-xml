@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguagePhrases>
+  <ProjectPhrase LanguageId="ru-RU" ProjectAttribute="BodyTitle" Phrase="CMS TICKET" />
+  <ProjectPhrase LanguageId="ru-RU" ProjectAttribute="FooterText" Phrase="&amp;copy;2025 KASIR CMS TICKET, All rights reserved." />
+  <MenuPhrase LanguageId="ru-RU" MenuId="1" MenuAttribute="MenuText" Phrase="Блог" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="2" MenuAttribute="MenuText" Phrase="Домены" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="3" MenuAttribute="MenuText" Phrase="Площадки" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="4" MenuAttribute="MenuText" Phrase="Пользователи" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="5" MenuAttribute="MenuText" Phrase="Права уровней доступа" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="6" MenuAttribute="MenuText" Phrase="Уровни пользователей" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="8" MenuAttribute="MenuText" Phrase="Контент" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="9" MenuAttribute="MenuText" Phrase="Вопросы и ответы" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="10" MenuAttribute="MenuText" Phrase="Баннеры" />
+  <TablePhrase LanguageId="ru-RU" TableName="banners" TableAttribute="TblCaption" Phrase="Баннеры" />
+  <TablePhrase LanguageId="ru-RU" TableName="blog" TableAttribute="TblCaption" Phrase="Блог" />
+  <TablePhrase LanguageId="ru-RU" TableName="blog" TableAttribute="TblPageCaption1" Phrase="Общее" />
+  <TablePhrase LanguageId="ru-RU" TableName="blog" TableAttribute="TblPageCaption2" Phrase="Заголовок" />
+  <TablePhrase LanguageId="ru-RU" TableName="blog" TableAttribute="TblPageCaption3" Phrase="Текст" />
+  <TablePhrase LanguageId="ru-RU" TableName="content" TableAttribute="TblCaption" Phrase="Контент" />
+  <TablePhrase LanguageId="ru-RU" TableName="content" TableAttribute="TblPageCaption1" Phrase="Русский" />
+  <TablePhrase LanguageId="ru-RU" TableName="content" TableAttribute="TblPageCaption2" Phrase="Английский" />
+  <TablePhrase LanguageId="ru-RU" TableName="content" TableAttribute="TblPageCaption3" Phrase="Кыргызский" />
+  <TablePhrase LanguageId="ru-RU" TableName="content" TableAttribute="TblPageCaption4" Phrase="Казахский" />
+  <TablePhrase LanguageId="ru-RU" TableName="content" TableAttribute="TblPageCaption5" Phrase="Узбекский" />
+  <TablePhrase LanguageId="ru-RU" TableName="domains" TableAttribute="TblCaption" Phrase="Домены" />
+  <TablePhrase LanguageId="ru-RU" TableName="faq" TableAttribute="TblCaption" Phrase="Вопросы и ответы" />
+  <TablePhrase LanguageId="ru-RU" TableName="faq" TableAttribute="TblPageCaption1" Phrase="Русский" />
+  <TablePhrase LanguageId="ru-RU" TableName="faq" TableAttribute="TblPageCaption2" Phrase="Английский" />
+  <TablePhrase LanguageId="ru-RU" TableName="faq" TableAttribute="TblPageCaption3" Phrase="Кыргызский" />
+  <TablePhrase LanguageId="ru-RU" TableName="faq" TableAttribute="TblPageCaption4" Phrase="Казахский" />
+  <TablePhrase LanguageId="ru-RU" TableName="faq" TableAttribute="TblPageCaption5" Phrase="Узбекский" />
+  <TablePhrase LanguageId="ru-RU" TableName="UserLevelPermissions" TableAttribute="TblCaption" Phrase="Права уровней доступа" />
+  <TablePhrase LanguageId="ru-RU" TableName="UserLevels" TableAttribute="TblCaption" Phrase="Уровни пользователей" />
+  <TablePhrase LanguageId="ru-RU" TableName="users" TableAttribute="TblCaption" Phrase="Пользователи" />
+  <TablePhrase LanguageId="ru-RU" TableName="venues" TableAttribute="TblCaption" Phrase="Площадки" />
+  <TablePhrase LanguageId="ru-RU" TableName="venues" TableAttribute="TblPageCaption1" Phrase="Общая Информация" />
+  <TablePhrase LanguageId="ru-RU" TableName="venues" TableAttribute="TblPageCaption2" Phrase="Название Прощадки" />
+  <TablePhrase LanguageId="ru-RU" TableName="venues" TableAttribute="TblPageCaption3" Phrase="Описание" />
+  <TablePhrase LanguageId="ru-RU" TableName="venues" TableAttribute="TblPageCaption4" Phrase="Адрес" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="banner_type" FieldAttribute="FldCaption" Phrase="Тип баннера" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="banner_type" FieldAttribute="FldTagCaption1" Phrase="Слайдер" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="banner_type" FieldAttribute="FldTagCaption2" Phrase="Постер" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="banner_type" FieldAttribute="FldTagValue1" Phrase="Слайдер" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="banner_type" FieldAttribute="FldTagValue2" Phrase="Постер" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Дата создания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="domain" FieldAttribute="FldCaption" Phrase="Домен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="image_url" FieldAttribute="FldCaption" Phrase="Изображение" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="link_url" FieldAttribute="FldCaption" Phrase="Ссылка" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="sort_order" FieldAttribute="FldCaption" Phrase="Порядок сортировки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="banners" FieldName="title" FieldAttribute="FldCaption" Phrase="Заголовок" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="content_en" FieldAttribute="FldCaption" Phrase="Содержание (Англ.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="content_en" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="content_kk" FieldAttribute="FldCaption" Phrase="Содержание (Каз.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="content_kk" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="content_ky" FieldAttribute="FldCaption" Phrase="Содержание (Кырг.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="content_ky" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="content_ru" FieldAttribute="FldCaption" Phrase="Содержание (Рус.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="content_ru" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="content_tj" FieldAttribute="FldCaption" Phrase="Содержание (Тадж.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="content_tj" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="content_uz" FieldAttribute="FldCaption" Phrase="Содержание (Узб.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="content_uz" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="domain" FieldAttribute="FldCaption" Phrase="Домен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="domain" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="id" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="image_url" FieldAttribute="FldCaption" Phrase="Изображение" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="image_url" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="link_type" FieldAttribute="FldCaption" Phrase="Тип ссылки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="link_type" FieldAttribute="FldTagCaption1" Phrase="Билет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="link_type" FieldAttribute="FldTagCaption2" Phrase="Информация" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="link_type" FieldAttribute="FldTagValue1" Phrase="Билет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="link_type" FieldAttribute="FldTagValue2" Phrase="Информация" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="slug" FieldAttribute="FldCaption" Phrase="slug" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="slug" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="ticket_link" FieldAttribute="FldCaption" Phrase="Ссылка на билет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="ticket_link" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="title_en" FieldAttribute="FldCaption" Phrase="Заголовок (Англ.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="title_en" FieldAttribute="FldTitle" Phrase="Введите ссылку полностью с https://" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="title_kk" FieldAttribute="FldCaption" Phrase="Заголовок (Каз.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="title_kk" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="title_ky" FieldAttribute="FldCaption" Phrase="Заголовок (Кырг.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="title_ky" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="title_ru" FieldAttribute="FldCaption" Phrase="Заголовок (Рус.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="title_ru" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="title_tj" FieldAttribute="FldCaption" Phrase="Заголовок (Тадж.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="title_tj" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="title_uz" FieldAttribute="FldCaption" Phrase="Заголовок (Узб.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="blog" FieldName="title_uz" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="content_en" FieldAttribute="FldCaption" Phrase="Контент (Англ.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="content_en" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="content_kk" FieldAttribute="FldCaption" Phrase="Контент (Каз.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="content_kk" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="content_ky" FieldAttribute="FldCaption" Phrase="Контент (Кырг.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="content_ky" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="content_ru" FieldAttribute="FldCaption" Phrase="Контент (Рус.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="content_ru" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="content_tj" FieldAttribute="FldCaption" Phrase="Контент (Тадж.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="content_tj" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="content_uz" FieldAttribute="FldCaption" Phrase="Контент (Узб.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="content_uz" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="domain" FieldAttribute="FldCaption" Phrase="Домен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="domain" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="id" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="image_url" FieldAttribute="FldCaption" Phrase="Изображение" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="image_url" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="slug" FieldAttribute="FldCaption" Phrase="slug" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="slug" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="ticket_link" FieldAttribute="FldCaption" Phrase="Ссылка на билет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="ticket_link" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="title_en" FieldAttribute="FldCaption" Phrase="Заголовок (Англ.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="title_en" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="title_kk" FieldAttribute="FldCaption" Phrase="Заголовок (Каз.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="title_kk" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="title_ky" FieldAttribute="FldCaption" Phrase="Заголовок (Кырг.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="title_ky" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="title_ru" FieldAttribute="FldCaption" Phrase="Заголовок (Рус.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="title_ru" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="title_tj" FieldAttribute="FldCaption" Phrase="Заголовок (Тадж.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="title_tj" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="title_uz" FieldAttribute="FldCaption" Phrase="Заголовок (Узб.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="content" FieldName="title_uz" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="domains" FieldName="domain_name" FieldAttribute="FldCaption" Phrase="Имя домена" />
+  <FieldPhrase LanguageId="ru-RU" TableName="domains" FieldName="domain_name" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="domains" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="domains" FieldName="id" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_en" FieldAttribute="FldCaption" Phrase="Ответ (Англ.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_en" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_kk" FieldAttribute="FldCaption" Phrase="Ответ (Каз.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_kk" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_ky" FieldAttribute="FldCaption" Phrase="Ответ (Кырг.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_ky" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_ru" FieldAttribute="FldCaption" Phrase="Ответ (Рус.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_ru" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_tj" FieldAttribute="FldCaption" Phrase="Ответ (Тадж.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_tj" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_uz" FieldAttribute="FldCaption" Phrase="Ответ (Узб.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_uz" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="domain" FieldAttribute="FldCaption" Phrase="Домен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="domain" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="id" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_en" FieldAttribute="FldCaption" Phrase="Вопрос (Англ.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_en" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_kk" FieldAttribute="FldCaption" Phrase="Вопрос (Каз.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_kk" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_ky" FieldAttribute="FldCaption" Phrase="Вопрос (Кырг.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_ky" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_ru" FieldAttribute="FldCaption" Phrase="Вопрос (Рус.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_ru" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_tj" FieldAttribute="FldCaption" Phrase="Вопрос (Тадж.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_tj" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_uz" FieldAttribute="FldCaption" Phrase="Вопрос (Узб.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_uz" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="UserLevelPermissions" FieldName="Permission" FieldAttribute="FldCaption" Phrase="Разрешение" />
+  <FieldPhrase LanguageId="ru-RU" TableName="UserLevelPermissions" FieldName="Permission" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="UserLevelPermissions" FieldName="TableName" FieldAttribute="FldCaption" Phrase="Имя таблицы" />
+  <FieldPhrase LanguageId="ru-RU" TableName="UserLevelPermissions" FieldName="TableName" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="UserLevelPermissions" FieldName="UserLevelID" FieldAttribute="FldCaption" Phrase="ID уровня пользователя" />
+  <FieldPhrase LanguageId="ru-RU" TableName="UserLevelPermissions" FieldName="UserLevelID" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="UserLevels" FieldName="Hierarchy" FieldAttribute="FldCaption" Phrase="Иерархия" />
+  <FieldPhrase LanguageId="ru-RU" TableName="UserLevels" FieldName="Hierarchy" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="UserLevels" FieldName="ID" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="UserLevels" FieldName="ID" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="UserLevels" FieldName="Name" FieldAttribute="FldCaption" Phrase="Название" />
+  <FieldPhrase LanguageId="ru-RU" TableName="UserLevels" FieldName="Name" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="create_at" FieldAttribute="FldCaption" Phrase="Дата создания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="create_at" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="id" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="login" FieldAttribute="FldCaption" Phrase="Логин" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="login" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="memo" FieldAttribute="FldCaption" Phrase="Заметка" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="memo" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="password" FieldAttribute="FldCaption" Phrase="Пароль" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="password" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="role" FieldAttribute="FldCaption" Phrase="Роль" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="role" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="address_en" FieldAttribute="FldCaption" Phrase="Адрес (Англ.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="address_en" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="address_kk" FieldAttribute="FldCaption" Phrase="Адрес (Каз.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="address_kk" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="address_ky" FieldAttribute="FldCaption" Phrase="Адрес (Кырг.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="address_ky" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="address_ru" FieldAttribute="FldCaption" Phrase="Адрес (Рус.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="address_ru" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="address_tj" FieldAttribute="FldCaption" Phrase="Адрес (Тадж.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="address_tj" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="address_uz" FieldAttribute="FldCaption" Phrase="Адрес (Узб.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="address_uz" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="capacity" FieldAttribute="FldCaption" Phrase="Вместимость" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="capacity" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="description_en" FieldAttribute="FldCaption" Phrase="Описание (Англ.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="description_en" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="description_kk" FieldAttribute="FldCaption" Phrase="Описание (Каз.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="description_kk" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="description_ky" FieldAttribute="FldCaption" Phrase="Описание (Кырг.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="description_ky" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="description_ru" FieldAttribute="FldCaption" Phrase="Описание (Рус.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="description_ru" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="description_tj" FieldAttribute="FldCaption" Phrase="Описание (Тадж.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="description_tj" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="description_uz" FieldAttribute="FldCaption" Phrase="Описание (Узб.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="description_uz" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="domain" FieldAttribute="FldCaption" Phrase="Домен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="domain" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="id" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="image_url" FieldAttribute="FldCaption" Phrase="Изображение" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="image_url" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="name_en" FieldAttribute="FldCaption" Phrase="Название (Англ.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="name_en" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="name_kk" FieldAttribute="FldCaption" Phrase="Название (Каз.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="name_kk" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="name_ky" FieldAttribute="FldCaption" Phrase="Название (Кырг.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="name_ky" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="name_ru" FieldAttribute="FldCaption" Phrase="Название (Рус.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="name_ru" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="name_tj" FieldAttribute="FldCaption" Phrase="Название (Тадж.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="name_tj" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="name_uz" FieldAttribute="FldCaption" Phrase="Название (Узб.)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="name_uz" FieldAttribute="FldTitle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="ticket_link" FieldAttribute="FldCaption" Phrase="Ссылка на билеты" />
+  <FieldPhrase LanguageId="ru-RU" TableName="venues" FieldName="ticket_link" FieldAttribute="FldTitle" Phrase="Введите ссылку полностью, с https://" />
+</LanguagePhrases>

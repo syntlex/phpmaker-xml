@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguagePhrases>
+  <!-- Общие фразы проекта -->
+  <ProjectPhrase LanguageId="ru-RU" ProjectAttribute="FooterText" Phrase="&amp;copy; 2025 e.World Technology Limited. Все права защищены." />
+
+  <!-- Названия пунктов меню -->
+  <MenuPhrase LanguageId="ru-RU" MenuId="1" MenuAttribute="MenuText" Phrase="Готовые ответы" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="2" MenuAttribute="MenuText" Phrase="История диалогов" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="3" MenuAttribute="MenuText" Phrase="Шаблоны документов" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="4" MenuAttribute="MenuText" Phrase="Часто задаваемые вопросы (FAQ)" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="5" MenuAttribute="MenuText" Phrase="Языковые строки" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="6" MenuAttribute="MenuText" Phrase="Стоп-фразы" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="7" MenuAttribute="MenuText" Phrase="Пользователи" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="14" MenuAttribute="MenuText" Phrase="Справочники" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="15" MenuAttribute="MenuText" Phrase="Главная" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="16" MenuAttribute="MenuText" Phrase="Категории" />
+
+  <!-- Заголовки таблиц -->
+  <TablePhrase LanguageId="ru-RU" TableName="canned_responses" TableAttribute="TblCaption" Phrase="Готовые ответы" />
+  <TablePhrase LanguageId="ru-RU" TableName="categories_list" TableAttribute="TblCaption" Phrase="Категории" />
+  <TablePhrase LanguageId="ru-RU" TableName="conversation_history" TableAttribute="TblCaption" Phrase="История диалогов" />
+  <TablePhrase LanguageId="ru-RU" TableName="dashdoart.php" TableAttribute="TblCaption" Phrase="Главная" />
+  <TablePhrase LanguageId="ru-RU" TableName="document_templates" TableAttribute="TblCaption" Phrase="Шаблоны документов" />
+  <TablePhrase LanguageId="ru-RU" TableName="faq" TableAttribute="TblCaption" Phrase="Часто задаваемые вопросы (FAQ)" />
+  <TablePhrase LanguageId="ru-RU" TableName="language_strings" TableAttribute="TblCaption" Phrase="Языковые строки" />
+  <TablePhrase LanguageId="ru-RU" TableName="stop_phrases" TableAttribute="TblCaption" Phrase="Стоп-фразы" />
+  <TablePhrase LanguageId="ru-RU" TableName="users" TableAttribute="TblCaption" Phrase="Пользователи" />
+
+  <!-- Поля таблицы: canned_responses -->
+  <FieldPhrase LanguageId="ru-RU" TableName="canned_responses" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="canned_responses" FieldName="category" FieldAttribute="FldCaption" Phrase="Категория" />
+  <FieldPhrase LanguageId="ru-RU" TableName="canned_responses" FieldName="subcategory" FieldAttribute="FldCaption" Phrase="Подкатегория" />
+  <FieldPhrase LanguageId="ru-RU" TableName="canned_responses" FieldName="content" FieldAttribute="FldCaption" Phrase="Содержание" />
+  <FieldPhrase LanguageId="ru-RU" TableName="canned_responses" FieldName="language_code" FieldAttribute="FldCaption" Phrase="Язык" />
+  <FieldPhrase LanguageId="ru-RU" TableName="canned_responses" FieldName="language_code" FieldAttribute="FldTagCaption1" Phrase="Русский" />
+  <FieldPhrase LanguageId="ru-RU" TableName="canned_responses" FieldName="language_code" FieldAttribute="FldTagCaption2" Phrase="Узбекский" />
+  <FieldPhrase LanguageId="ru-RU" TableName="canned_responses" FieldName="language_code" FieldAttribute="FldTagValue1" Phrase="ru" />
+  <FieldPhrase LanguageId="ru-RU" TableName="canned_responses" FieldName="language_code" FieldAttribute="FldTagValue2" Phrase="uz" />
+
+  <!-- Поля таблицы: categories_list -->
+  <FieldPhrase LanguageId="ru-RU" TableName="categories_list" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="categories_list" FieldName="category" FieldAttribute="FldCaption" Phrase="Категория" />
+  <FieldPhrase LanguageId="ru-RU" TableName="categories_list" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="categories_list" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+
+  <!-- Поля таблицы: conversation_history -->
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="user_id" FieldAttribute="FldCaption" Phrase="ID пользователя" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="user_message" FieldAttribute="FldCaption" Phrase="Сообщение пользователя" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="bot_response" FieldAttribute="FldCaption" Phrase="Ответ бота" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="category" FieldAttribute="FldCaption" Phrase="Категория" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="response_type" FieldAttribute="FldCaption" Phrase="Тип ответа" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="response_type" FieldAttribute="FldTagCaption1" Phrase="Ответ ИИ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="response_type" FieldAttribute="FldTagCaption2" Phrase="Шаблонный ответ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="response_type" FieldAttribute="FldTagCaption3" Phrase="Текст меню" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="response_type" FieldAttribute="FldTagCaption4" Phrase="Статический текст" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="response_type" FieldAttribute="FldTagValue1" Phrase="ai_response" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="response_type" FieldAttribute="FldTagValue2" Phrase="template_response" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="response_type" FieldAttribute="FldTagValue3" Phrase="menu_text" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="response_type" FieldAttribute="FldTagValue4" Phrase="static_text" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="action_taken" FieldAttribute="FldCaption" Phrase="Выполненное действие" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="action_taken" FieldAttribute="FldTagCaption1" Phrase="Запрошена консультация" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="action_taken" FieldAttribute="FldTagCaption2" Phrase="Продолжение чата" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="action_taken" FieldAttribute="FldTagCaption3" Phrase="Отправлен шаблон" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="action_taken" FieldAttribute="FldTagCaption4" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="action_taken" FieldAttribute="FldTagValue1" Phrase="consultation_requested" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="action_taken" FieldAttribute="FldTagValue2" Phrase="continue_chat" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="action_taken" FieldAttribute="FldTagValue3" Phrase="template_sent" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="action_taken" FieldAttribute="FldTagValue4" Phrase="none" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="ai_model_used" FieldAttribute="FldCaption" Phrase="Используемая модель ИИ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="conversation_history" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+
+  <!-- Поля таблицы: document_templates -->
+  <FieldPhrase LanguageId="ru-RU" TableName="document_templates" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="document_templates" FieldName="category" FieldAttribute="FldCaption" Phrase="Категория" />
+  <FieldPhrase LanguageId="ru-RU" TableName="document_templates" FieldName="template_name_ru" FieldAttribute="FldCaption" Phrase="Название шаблона (рус)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="document_templates" FieldName="template_name_uz" FieldAttribute="FldCaption" Phrase="Название шаблона (узб)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="document_templates" FieldName="description_ru" FieldAttribute="FldCaption" Phrase="Описание (рус)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="document_templates" FieldName="description_uz" FieldAttribute="FldCaption" Phrase="Описание (узб)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="document_templates" FieldName="file_path" FieldAttribute="FldCaption" Phrase="Путь к файлу" />
+  <FieldPhrase LanguageId="ru-RU" TableName="document_templates" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+
+  <!-- Поля таблицы: faq -->
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_ru" FieldAttribute="FldCaption" Phrase="Вопрос (рус)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="question_uz" FieldAttribute="FldCaption" Phrase="Вопрос (узб)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_ru" FieldAttribute="FldCaption" Phrase="Ответ (рус)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="answer_uz" FieldAttribute="FldCaption" Phrase="Ответ (узб)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="faq" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+
+  <!-- Поля таблицы: language_strings -->
+  <FieldPhrase LanguageId="ru-RU" TableName="language_strings" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="language_strings" FieldName="key_name" FieldAttribute="FldCaption" Phrase="Ключ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="language_strings" FieldName="content" FieldAttribute="FldCaption" Phrase="Содержание" />
+  <FieldPhrase LanguageId="ru-RU" TableName="language_strings" FieldName="language_code" FieldAttribute="FldCaption" Phrase="Язык" />
+  <FieldPhrase LanguageId="ru-RU" TableName="language_strings" FieldName="language_code" FieldAttribute="FldTagCaption1" Phrase="Русский" />
+  <FieldPhrase LanguageId="ru-RU" TableName="language_strings" FieldName="language_code" FieldAttribute="FldTagCaption2" Phrase="Узбекский" />
+  <FieldPhrase LanguageId="ru-RU" TableName="language_strings" FieldName="language_code" FieldAttribute="FldTagValue1" Phrase="ru" />
+  <FieldPhrase LanguageId="ru-RU" TableName="language_strings" FieldName="language_code" FieldAttribute="FldTagValue2" Phrase="uz" />
+
+  <!-- Поля таблицы: stop_phrases -->
+  <FieldPhrase LanguageId="ru-RU" TableName="stop_phrases" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="stop_phrases" FieldName="phrase" FieldAttribute="FldCaption" Phrase="Фраза" />
+  <FieldPhrase LanguageId="ru-RU" TableName="stop_phrases" FieldName="response_ru" FieldAttribute="FldCaption" Phrase="Ответ (рус)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="stop_phrases" FieldName="response_uz" FieldAttribute="FldCaption" Phrase="Ответ (узб)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="stop_phrases" FieldName="language_code" FieldAttribute="FldCaption" Phrase="Язык" />
+  <FieldPhrase LanguageId="ru-RU" TableName="stop_phrases" FieldName="language_code" FieldAttribute="FldTagCaption1" Phrase="Русский" />
+  <FieldPhrase LanguageId="ru-RU" TableName="stop_phrases" FieldName="language_code" FieldAttribute="FldTagCaption2" Phrase="Узбекский" />
+  <FieldPhrase LanguageId="ru-RU" TableName="stop_phrases" FieldName="language_code" FieldAttribute="FldTagValue1" Phrase="ru" />
+  <FieldPhrase LanguageId="ru-RU" TableName="stop_phrases" FieldName="language_code" FieldAttribute="FldTagValue2" Phrase="uz" />
+  <FieldPhrase LanguageId="ru-RU" TableName="stop_phrases" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+
+  <!-- Поля таблицы: users -->
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="telegram_id" FieldAttribute="FldCaption" Phrase="ID Telegram" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="username" FieldAttribute="FldCaption" Phrase="Логин" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="first_name" FieldAttribute="FldCaption" Phrase="Имя" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="last_name" FieldAttribute="FldCaption" Phrase="Фамилия" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="phone_number" FieldAttribute="FldCaption" Phrase="Номер телефона" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="language_code" FieldAttribute="FldCaption" Phrase="Язык" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="language_code" FieldAttribute="FldTagCaption1" Phrase="Русский" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="language_code" FieldAttribute="FldTagCaption2" Phrase="Узбекский" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="language_code" FieldAttribute="FldTagValue1" Phrase="ru" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="language_code" FieldAttribute="FldTagValue2" Phrase="uz" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="is_blocked" FieldAttribute="FldCaption" Phrase="Заблокирован" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="is_blocked" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="is_blocked" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="is_blocked" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="is_blocked" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="session_state" FieldAttribute="FldCaption" Phrase="Состояние сессии" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="session_state" FieldAttribute="FldTagCaption1" Phrase="Ожидание" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="session_state" FieldAttribute="FldTagCaption2" Phrase="Ожидание вопроса" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="session_state" FieldAttribute="FldTagValue1" Phrase="idle" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="session_state" FieldAttribute="FldTagValue2" Phrase="waiting_for_question" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="question_count" FieldAttribute="FldCaption" Phrase="Количество вопросов" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="total_responses" FieldAttribute="FldCaption" Phrase="Всего ответов" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="used_response_ids" FieldAttribute="FldCaption" Phrase="Использованные ID ответов" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="users" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+</LanguagePhrases>
