@@ -1,0 +1,1110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguagePhrases>
+  <ProjectPhrase LanguageId="ru-RU" ProjectAttribute="BodyTitle" Phrase="Магазины" />
+  <ProjectPhrase LanguageId="ru-RU" ProjectAttribute="FooterText" Phrase="&amp;copy; Office 966. Все права защищены." />
+  <MenuPhrase LanguageId="ru-RU" MenuId="6" MenuAttribute="MenuText" Phrase="Город" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="7" MenuAttribute="MenuText" Phrase="Компания" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="8" MenuAttribute="MenuText" Phrase="Адрес компании" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="9" MenuAttribute="MenuText" Phrase="Контакты компании" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="10" MenuAttribute="MenuText" Phrase="Реквизиты компании" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="11" MenuAttribute="MenuText" Phrase="Сотрудник компании" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="14" MenuAttribute="MenuText" Phrase="Кошелёк компании" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="15" MenuAttribute="MenuText" Phrase="Версии миграций Doctrine" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="16" MenuAttribute="MenuText" Phrase="Заказ монетизации" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="17" MenuAttribute="MenuText" Phrase="Услуга монетизации" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="18" MenuAttribute="MenuText" Phrase="Тариф монетизации" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="19" MenuAttribute="MenuText" Phrase="Уведомление" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="20" MenuAttribute="MenuText" Phrase="Настройка уведомлений" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="21" MenuAttribute="MenuText" Phrase="Платёж" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="22" MenuAttribute="MenuText" Phrase="Регион" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="25" MenuAttribute="MenuText" Phrase="Подписка" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="26" MenuAttribute="MenuText" Phrase="Заказ подписки" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="27" MenuAttribute="MenuText" Phrase="Перевод" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="28" MenuAttribute="MenuText" Phrase="Уведомление пользователя" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="29" MenuAttribute="MenuText" Phrase="Настройка уведомлений пользователя" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="30" MenuAttribute="MenuText" Phrase="Подписка пользователя" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="31" MenuAttribute="MenuText" Phrase="Кошелёк" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="33" MenuAttribute="MenuText" Phrase="Справочник" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="34" MenuAttribute="MenuText" Phrase="Бизнес-профили" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="35" MenuAttribute="MenuText" Phrase="Монетизация" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="68" MenuAttribute="MenuText" Phrase="Уведомление" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="69" MenuAttribute="MenuText" Phrase="Подписки" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="86" MenuAttribute="MenuText" Phrase="Контент" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="87" MenuAttribute="MenuText" Phrase="Магазины" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="89" MenuAttribute="MenuText" Phrase="Транзакции" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="91" MenuAttribute="MenuText" Phrase="Пользователь" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="92" MenuAttribute="MenuText" Phrase="Адрес пользователя" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="93" MenuAttribute="MenuText" Phrase="Контакты пользователя" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="94" MenuAttribute="MenuText" Phrase="Телефон пользователя" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="95" MenuAttribute="MenuText" Phrase="Верификации пользователя" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="96" MenuAttribute="MenuText" Phrase="Кошелёк пользователя" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="105" MenuAttribute="MenuText" Phrase="Пользователи" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="107" MenuAttribute="MenuText" Phrase="Каталог" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="108" MenuAttribute="MenuText" Phrase="Страна" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="109" MenuAttribute="MenuText" Phrase="Курьер" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="110" MenuAttribute="MenuText" Phrase="Ключевые слова" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="111" MenuAttribute="MenuText" Phrase="Корзина" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="112" MenuAttribute="MenuText" Phrase="Заказ" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="114" MenuAttribute="MenuText" Phrase="Атрибуты" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="115" MenuAttribute="MenuText" Phrase="Группа атрибутов" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="116" MenuAttribute="MenuText" Phrase="Сценарий доставки заказа" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="117" MenuAttribute="MenuText" Phrase="Ключевые слова товара" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="118" MenuAttribute="MenuText" Phrase="Изображение товара" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="119" MenuAttribute="MenuText" Phrase="Товар в заказе" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="120" MenuAttribute="MenuText" Phrase="Реакция на товар" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="121" MenuAttribute="MenuText" Phrase="Монетизация товара" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="122" MenuAttribute="MenuText" Phrase="Атрибут товара" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="123" MenuAttribute="MenuText" Phrase="Доставка товара в заказе" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="124" MenuAttribute="MenuText" Phrase="Этап доставки заказа" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="125" MenuAttribute="MenuText" Phrase="Избранное" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="126" MenuAttribute="MenuText" Phrase="Отслеживание доставки заказа" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="127" MenuAttribute="MenuText" Phrase="Значение варианта товара" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="128" MenuAttribute="MenuText" Phrase="Просмотр товара" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="129" MenuAttribute="MenuText" Phrase="Значение варианта" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="131" MenuAttribute="MenuText" Phrase="Вариант" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="132" MenuAttribute="MenuText" Phrase="Магазин" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="133" MenuAttribute="MenuText" Phrase="Склад" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="134" MenuAttribute="MenuText" Phrase="Группа вариантов" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="135" MenuAttribute="MenuText" Phrase="Пункт выдачи" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="136" MenuAttribute="MenuText" Phrase="Товары" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="137" MenuAttribute="MenuText" Phrase="Вариант товара" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="138" MenuAttribute="MenuText" Phrase="Товар в корзине" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="180" MenuAttribute="MenuText" Phrase="Товары" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="181" MenuAttribute="MenuText" Phrase="Заказы" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="183" MenuAttribute="MenuText" Phrase="Корзина" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="184" MenuAttribute="MenuText" Phrase="Каталог 2-го уровня" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="187" MenuAttribute="MenuText" Phrase="Параметры перевода" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="188" MenuAttribute="MenuText" Phrase="Ключи перевода" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="189" MenuAttribute="MenuText" Phrase="Языки" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="270" MenuAttribute="MenuText" Phrase="Переводы" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="271" MenuAttribute="MenuText" Phrase="Каталог переводов" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="272" MenuAttribute="MenuText" Phrase="Название каталога переводов" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="274" MenuAttribute="MenuText" Phrase="Единицы измерения атрибутов" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="275" MenuAttribute="MenuText" Phrase="Фермер" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="276" MenuAttribute="MenuText" Phrase="Файлы" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="277" MenuAttribute="MenuText" Phrase="Производитель" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="278" MenuAttribute="MenuText" Phrase="Расписание компании" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="279" MenuAttribute="MenuText" Phrase="Вариант атрибута" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="280" MenuAttribute="MenuText" Phrase="Сопутствующие товары" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="282" MenuAttribute="MenuText" Phrase="Отзыв о товаре" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="283" MenuAttribute="MenuText" Phrase="День недели" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="284" MenuAttribute="MenuText" Phrase="Единицы измерения" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="285" MenuAttribute="MenuText" Phrase="Вопросы о товаре" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="286" MenuAttribute="MenuText" Phrase="Типы компаний" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="287" MenuAttribute="MenuText" Phrase="Типы транспорта" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="288" MenuAttribute="MenuText" Phrase="Каталог 1-го уровня" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="385" MenuAttribute="MenuText" Phrase="Касса" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="386" MenuAttribute="MenuText" Phrase="Организационно-правовая форма" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="387" MenuAttribute="MenuText" Phrase="Роли сотрудников компании" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="388" MenuAttribute="MenuText" Phrase="Тип каталога" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="389" MenuAttribute="MenuText" Phrase="Подписка на переводы" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="390" MenuAttribute="MenuText" Phrase="Экспедитор" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="392" MenuAttribute="MenuText" Phrase="Тип услуги монетизации" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="393" MenuAttribute="MenuText" Phrase="Тип настроек уведомлений" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="394" MenuAttribute="MenuText" Phrase="Тип уведомления" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="395" MenuAttribute="MenuText" Phrase="Изображение варианта товара" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="396" MenuAttribute="MenuText" Phrase="История телефонных номеров" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="499" MenuAttribute="MenuText" Phrase="Категории" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="500" MenuAttribute="MenuText" Phrase="Параметры товаров " />
+  <MenuPhrase LanguageId="ru-RU" MenuId="501" MenuAttribute="MenuText" Phrase="Точка питания" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="502" MenuAttribute="MenuText" Phrase="Тип размерности товара" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="503" MenuAttribute="MenuText" Phrase="Аптека" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="504" MenuAttribute="MenuText" Phrase="Панель управления" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="505" MenuAttribute="MenuText" Phrase="Договоры" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="506" MenuAttribute="MenuText" Phrase="Способы доставки" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="507" MenuAttribute="MenuText" Phrase="Способы оплаты" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="508" MenuAttribute="MenuText" Phrase="Изображения отзывов о товаре" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="509" MenuAttribute="MenuText" Phrase="Поставщики услуг" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="510" MenuAttribute="MenuText" Phrase="Типы договоров" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="511" MenuAttribute="MenuText" Phrase="Корзина клиента" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="512" MenuAttribute="MenuText" Phrase="Корзина бизнеса" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="513" MenuAttribute="MenuText" Phrase="Консультант" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="514" MenuAttribute="MenuText" Phrase="Отзыв о компании" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="515" MenuAttribute="MenuText" Phrase="Изображения отзывов о компании" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="516" MenuAttribute="MenuText" Phrase="Вопрос о компании" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="517" MenuAttribute="MenuText" Phrase="Тёмный склад" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="518" MenuAttribute="MenuText" Phrase="Промоакции компании" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="519" MenuAttribute="MenuText" Phrase="Вебмастер" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="520" MenuAttribute="MenuText" Phrase="Дистрибьютор" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="521" MenuAttribute="MenuText" Phrase="Адрес доставки" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="522" MenuAttribute="MenuText" Phrase="Сообщения мессенджера" />
+  <MenuPhrase LanguageId="ru-RU" MenuId="647" MenuAttribute="MenuText" Phrase="Система" />
+  <TablePhrase LanguageId="ru-RU" TableName="attribute" TableAttribute="TblCaption" Phrase="Атрибуты" />
+  <TablePhrase LanguageId="ru-RU" TableName="attribute_group" TableAttribute="TblCaption" Phrase="Группа атрибутов" />
+  <TablePhrase LanguageId="ru-RU" TableName="attribute_option" TableAttribute="TblCaption" Phrase="Вариант атрибута" />
+  <TablePhrase LanguageId="ru-RU" TableName="attribute_units" TableAttribute="TblCaption" Phrase="Единицы измерения атрибутов" />
+  <TablePhrase LanguageId="ru-RU" TableName="cart" TableAttribute="TblCaption" Phrase="Корзина" />
+  <TablePhrase LanguageId="ru-RU" TableName="cart_business" TableAttribute="TblCaption" Phrase="Корзина бизнеса" />
+  <TablePhrase LanguageId="ru-RU" TableName="cart_client" TableAttribute="TblCaption" Phrase="Корзина клиента" />
+  <TablePhrase LanguageId="ru-RU" TableName="cart_product" TableAttribute="TblCaption" Phrase="Товар в корзине" />
+  <TablePhrase LanguageId="ru-RU" TableName="catalog" TableAttribute="TblCaption" Phrase="Каталог" />
+  <TablePhrase LanguageId="ru-RU" TableName="catalog_level_1" TableAttribute="TblCaption" Phrase="Каталог 1-го уровня" />
+  <TablePhrase LanguageId="ru-RU" TableName="catalog_level_2" TableAttribute="TblCaption" Phrase="Каталог 2-го уровня" />
+  <TablePhrase LanguageId="ru-RU" TableName="catalog_type" TableAttribute="TblCaption" Phrase="Тип каталога" />
+  <TablePhrase LanguageId="ru-RU" TableName="city" TableAttribute="TblCaption" Phrase="Город" />
+  <TablePhrase LanguageId="ru-RU" TableName="company" TableAttribute="TblCaption" Phrase="Компания" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_address" TableAttribute="TblCaption" Phrase="Адрес компании" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_contacts" TableAttribute="TblCaption" Phrase="Контакты компании" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_details" TableAttribute="TblCaption" Phrase="Реквизиты компании" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_details" TableAttribute="TblPageCaption1" Phrase="Общие" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_details" TableAttribute="TblPageCaption2" Phrase="Банк" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_employee" TableAttribute="TblCaption" Phrase="Сотрудник компании" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_employee_roles" TableAttribute="TblCaption" Phrase="Роли сотрудников компании" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_feedback" TableAttribute="TblCaption" Phrase="Отзыв о компании" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_feedback_image" TableAttribute="TblCaption" Phrase="Изображение отзыва о компании" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_legal_type" TableAttribute="TblCaption" Phrase="Организационно-правовая форма" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_promo" TableAttribute="TblCaption" Phrase="Промоакции компании" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_question" TableAttribute="TblCaption" Phrase="Вопрос о компании" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_schedule" TableAttribute="TblCaption" Phrase="Расписание компании" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_types" TableAttribute="TblCaption" Phrase="Типы компаний" />
+  <TablePhrase LanguageId="ru-RU" TableName="company_wallet" TableAttribute="TblCaption" Phrase="Кошелёк компании" />
+  <TablePhrase LanguageId="ru-RU" TableName="consultant" TableAttribute="TblCaption" Phrase="Консультант" />
+  <TablePhrase LanguageId="ru-RU" TableName="contract_types" TableAttribute="TblCaption" Phrase="Типы договоров" />
+  <TablePhrase LanguageId="ru-RU" TableName="contracts" TableAttribute="TblCaption" Phrase="Договоры" />
+  <TablePhrase LanguageId="ru-RU" TableName="country" TableAttribute="TblCaption" Phrase="Страна" />
+  <TablePhrase LanguageId="ru-RU" TableName="courier" TableAttribute="TblCaption" Phrase="Курьер" />
+  <TablePhrase LanguageId="ru-RU" TableName="dark_store" TableAttribute="TblCaption" Phrase="Тёмный склад" />
+  <TablePhrase LanguageId="ru-RU" TableName="dashboard.php" TableAttribute="TblCaption" Phrase="Панель управления" />
+  <TablePhrase LanguageId="ru-RU" TableName="delivery_types" TableAttribute="TblCaption" Phrase="Способы доставки" />
+  <TablePhrase LanguageId="ru-RU" TableName="distributor" TableAttribute="TblCaption" Phrase="Дистрибьютор" />
+  <TablePhrase LanguageId="ru-RU" TableName="doctrine_migration_versions" TableAttribute="TblCaption" Phrase="Версии миграций Doctrine" />
+  <TablePhrase LanguageId="ru-RU" TableName="expeditor" TableAttribute="TblCaption" Phrase="Экспедитор" />
+  <TablePhrase LanguageId="ru-RU" TableName="farmer" TableAttribute="TblCaption" Phrase="Фермер" />
+  <TablePhrase LanguageId="ru-RU" TableName="files" TableAttribute="TblCaption" Phrase="Файлы" />
+  <TablePhrase LanguageId="ru-RU" TableName="food_point" TableAttribute="TblCaption" Phrase="Точка питания" />
+  <TablePhrase LanguageId="ru-RU" TableName="keywords" TableAttribute="TblCaption" Phrase="Ключевые слова" />
+  <TablePhrase LanguageId="ru-RU" TableName="languages" TableAttribute="TblCaption" Phrase="Языки" />
+  <TablePhrase LanguageId="ru-RU" TableName="manufacturer" TableAttribute="TblCaption" Phrase="Производитель" />
+  <TablePhrase LanguageId="ru-RU" TableName="messenger_messages" TableAttribute="TblCaption" Phrase="Сообщения мессенджера" />
+  <TablePhrase LanguageId="ru-RU" TableName="monetization_order" TableAttribute="TblCaption" Phrase="Заказ монетизации" />
+  <TablePhrase LanguageId="ru-RU" TableName="monetization_service" TableAttribute="TblCaption" Phrase="Услуга монетизации" />
+  <TablePhrase LanguageId="ru-RU" TableName="monetization_service_type" TableAttribute="TblCaption" Phrase="Тип услуги монетизации" />
+  <TablePhrase LanguageId="ru-RU" TableName="monetization_tariff" TableAttribute="TblCaption" Phrase="Тариф монетизации" />
+  <TablePhrase LanguageId="ru-RU" TableName="notification" TableAttribute="TblCaption" Phrase="Уведомление" />
+  <TablePhrase LanguageId="ru-RU" TableName="notification_setting" TableAttribute="TblCaption" Phrase="Настройка уведомлений" />
+  <TablePhrase LanguageId="ru-RU" TableName="notification_settings_type" TableAttribute="TblCaption" Phrase="Тип настроек уведомлений" />
+  <TablePhrase LanguageId="ru-RU" TableName="notification_type" TableAttribute="TblCaption" Phrase="Тип уведомления" />
+  <TablePhrase LanguageId="ru-RU" TableName="order" TableAttribute="TblCaption" Phrase="Заказ" />
+  <TablePhrase LanguageId="ru-RU" TableName="order_address" TableAttribute="TblCaption" Phrase="Адрес доставки" />
+  <TablePhrase LanguageId="ru-RU" TableName="order_delivery_scenario" TableAttribute="TblCaption" Phrase="Сценарий доставки заказа" />
+  <TablePhrase LanguageId="ru-RU" TableName="order_delivery_stage" TableAttribute="TblCaption" Phrase="Этап доставки заказа" />
+  <TablePhrase LanguageId="ru-RU" TableName="order_delivery_tracking" TableAttribute="TblCaption" Phrase="Отслеживание доставки заказа" />
+  <TablePhrase LanguageId="ru-RU" TableName="order_product" TableAttribute="TblCaption" Phrase="Товар в заказе" />
+  <TablePhrase LanguageId="ru-RU" TableName="order_product_delivery" TableAttribute="TblCaption" Phrase="Доставка товара в заказе" />
+  <TablePhrase LanguageId="ru-RU" TableName="payment" TableAttribute="TblCaption" Phrase="Платёж" />
+  <TablePhrase LanguageId="ru-RU" TableName="payment_methods" TableAttribute="TblCaption" Phrase="Способы оплаты" />
+  <TablePhrase LanguageId="ru-RU" TableName="pharmacy" TableAttribute="TblCaption" Phrase="Аптека" />
+  <TablePhrase LanguageId="ru-RU" TableName="phone_number_history" TableAttribute="TblCaption" Phrase="История телефонных номеров" />
+  <TablePhrase LanguageId="ru-RU" TableName="pickup_point" TableAttribute="TblCaption" Phrase="Пункт выдачи" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_attribute" TableAttribute="TblCaption" Phrase="Атрибут товара" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_dimension_type" TableAttribute="TblCaption" Phrase="Тип размерности товара" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_favorite" TableAttribute="TblCaption" Phrase="Избранное" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_feedback" TableAttribute="TblCaption" Phrase="Отзыв о товаре" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_feedback_image" TableAttribute="TblCaption" Phrase="Изображение отзыва о товаре" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_image" TableAttribute="TblCaption" Phrase="Изображение товара" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_key_words" TableAttribute="TblCaption" Phrase="Ключевые слова товара" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_monetization" TableAttribute="TblCaption" Phrase="Монетизация товара" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_questions" TableAttribute="TblCaption" Phrase="Вопросы о товаре" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_reaction" TableAttribute="TblCaption" Phrase="Реакция на товар" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_variant_image" TableAttribute="TblCaption" Phrase="Изображение варианта товара" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_variant_value" TableAttribute="TblCaption" Phrase="Значение варианта товара" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_variants" TableAttribute="TblCaption" Phrase="Вариант товара" />
+  <TablePhrase LanguageId="ru-RU" TableName="product_view" TableAttribute="TblCaption" Phrase="Просмотр товара" />
+  <TablePhrase LanguageId="ru-RU" TableName="products" TableAttribute="TblCaption" Phrase="Товары" />
+  <TablePhrase LanguageId="ru-RU" TableName="region" TableAttribute="TblCaption" Phrase="Регион" />
+  <TablePhrase LanguageId="ru-RU" TableName="related_products" TableAttribute="TblCaption" Phrase="Сопутствующие товары" />
+  <TablePhrase LanguageId="ru-RU" TableName="schedule_day" TableAttribute="TblCaption" Phrase="День недели" />
+  <TablePhrase LanguageId="ru-RU" TableName="service_providers" TableAttribute="TblCaption" Phrase="Поставщики услуг" />
+  <TablePhrase LanguageId="ru-RU" TableName="shop" TableAttribute="TblCaption" Phrase="Магазин" />
+  <TablePhrase LanguageId="ru-RU" TableName="subscription" TableAttribute="TblCaption" Phrase="Подписка" />
+  <TablePhrase LanguageId="ru-RU" TableName="subscription_order" TableAttribute="TblCaption" Phrase="Заказ подписки" />
+  <TablePhrase LanguageId="ru-RU" TableName="transactions" TableAttribute="TblCaption" Phrase="Транзакции" />
+  <TablePhrase LanguageId="ru-RU" TableName="translation" TableAttribute="TblCaption" Phrase="Перевод" />
+  <TablePhrase LanguageId="ru-RU" TableName="translation_catalog" TableAttribute="TblCaption" Phrase="Каталог переводов" />
+  <TablePhrase LanguageId="ru-RU" TableName="translation_keys" TableAttribute="TblCaption" Phrase="Ключи перевода" />
+  <TablePhrase LanguageId="ru-RU" TableName="translation_params" TableAttribute="TblCaption" Phrase="Параметры перевода" />
+  <TablePhrase LanguageId="ru-RU" TableName="translation_subscription" TableAttribute="TblCaption" Phrase="Подписка на переводы" />
+  <TablePhrase LanguageId="ru-RU" TableName="transport_types" TableAttribute="TblCaption" Phrase="Типы транспорта" />
+  <TablePhrase LanguageId="ru-RU" TableName="units" TableAttribute="TblCaption" Phrase="Единицы измерения" />
+  <TablePhrase LanguageId="ru-RU" TableName="user" TableAttribute="TblCaption" Phrase="Пользователь" />
+  <TablePhrase LanguageId="ru-RU" TableName="user_address" TableAttribute="TblCaption" Phrase="Адрес пользователя" />
+  <TablePhrase LanguageId="ru-RU" TableName="user_contacts" TableAttribute="TblCaption" Phrase="Контакты пользователя" />
+  <TablePhrase LanguageId="ru-RU" TableName="user_notification" TableAttribute="TblCaption" Phrase="Уведомление пользователя" />
+  <TablePhrase LanguageId="ru-RU" TableName="user_notification_setting" TableAttribute="TblCaption" Phrase="Настройка уведомлений пользователя" />
+  <TablePhrase LanguageId="ru-RU" TableName="user_phone" TableAttribute="TblCaption" Phrase="Телефон пользователя" />
+  <TablePhrase LanguageId="ru-RU" TableName="user_subscription" TableAttribute="TblCaption" Phrase="Подписка пользователя" />
+  <TablePhrase LanguageId="ru-RU" TableName="user_verifications" TableAttribute="TblCaption" Phrase="Верификации пользователя" />
+  <TablePhrase LanguageId="ru-RU" TableName="user_wallet" TableAttribute="TblCaption" Phrase="Кошелёк пользователя" />
+  <TablePhrase LanguageId="ru-RU" TableName="variant" TableAttribute="TblCaption" Phrase="Вариант" />
+  <TablePhrase LanguageId="ru-RU" TableName="variant_group" TableAttribute="TblCaption" Phrase="Группа вариантов" />
+  <TablePhrase LanguageId="ru-RU" TableName="variant_value" TableAttribute="TblCaption" Phrase="Значение варианта" />
+  <TablePhrase LanguageId="ru-RU" TableName="wallet" TableAttribute="TblCaption" Phrase="Кошелёк" />
+  <TablePhrase LanguageId="ru-RU" TableName="warehouse" TableAttribute="TblCaption" Phrase="Склад" />
+  <TablePhrase LanguageId="ru-RU" TableName="webmaster" TableAttribute="TblCaption" Phrase="Вебмастер" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute" FieldName="type" FieldAttribute="FldCaption" Phrase="Тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_group" FieldName="attribute_uuid" FieldAttribute="FldCaption" Phrase="Атрибут" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_group" FieldName="catalog_uuid" FieldAttribute="FldCaption" Phrase="Каталог" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_group" FieldName="required" FieldAttribute="FldCaption" Phrase="Обязательный" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_group" FieldName="required" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_group" FieldName="required" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_group" FieldName="required" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_group" FieldName="required" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_group" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_option" FieldName="attribute_uuid" FieldAttribute="FldCaption" Phrase="Атрибут" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_option" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_units" FieldName="attribute_uuid" FieldAttribute="FldCaption" Phrase="Атрибут" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_units" FieldName="unit_uuid" FieldAttribute="FldCaption" Phrase="Единица измерения" />
+  <FieldPhrase LanguageId="ru-RU" TableName="attribute_units" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="customer_uuid" FieldAttribute="FldCaption" Phrase="Покупатель" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="is_authenticated" FieldAttribute="FldCaption" Phrase="Авторизован" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="is_authenticated" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="is_authenticated" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="is_authenticated" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="is_authenticated" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="type" FieldAttribute="FldCaption" Phrase="Тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="type" FieldAttribute="FldTagCaption1" Phrase="Клиент" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="type" FieldAttribute="FldTagCaption2" Phrase="Бизнес" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="type" FieldAttribute="FldTagValue1" Phrase="client" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="type" FieldAttribute="FldTagValue2" Phrase="business" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_business" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_business" FieldName="customer_uuid" FieldAttribute="FldCaption" Phrase="Покупатель" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_business" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_business" FieldName="is_authenticated" FieldAttribute="FldCaption" Phrase="Авторизован" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_business" FieldName="is_authenticated" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_business" FieldName="is_authenticated" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_business" FieldName="is_authenticated" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_business" FieldName="is_authenticated" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_business" FieldName="type" FieldAttribute="FldCaption" Phrase="Тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_business" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_business" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_client" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_client" FieldName="customer_uuid" FieldAttribute="FldCaption" Phrase="Покупатель" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_client" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_client" FieldName="is_authenticated" FieldAttribute="FldCaption" Phrase="Авторизован" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_client" FieldName="is_authenticated" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_client" FieldName="is_authenticated" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_client" FieldName="is_authenticated" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_client" FieldName="is_authenticated" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_client" FieldName="type" FieldAttribute="FldCaption" Phrase="Тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_client" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_client" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_product" FieldName="cart_uuid" FieldAttribute="FldCaption" Phrase="Корзина" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_product" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_product" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_product" FieldName="product_variant_uuid" FieldAttribute="FldCaption" Phrase="Вариант товара" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_product" FieldName="quantity" FieldAttribute="FldCaption" Phrase="Количество" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_product" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="cart_product" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="catalog_type_uuid" FieldAttribute="FldCaption" Phrase="Тип каталога" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="color" FieldAttribute="FldCaption" Phrase="Цвет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="commission_rate" FieldAttribute="FldCaption" Phrase="Комиссия (%)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="file_uuid" FieldAttribute="FldCaption" Phrase="Иконка" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="level" FieldAttribute="FldCaption" Phrase="Уровень" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="level" FieldAttribute="FldTagCaption1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="level" FieldAttribute="FldTagCaption2" Phrase="2" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="level" FieldAttribute="FldTagCaption3" Phrase="3" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="level" FieldAttribute="FldTagCaption4" Phrase="4" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="level" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="level" FieldAttribute="FldTagValue2" Phrase="2" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="level" FieldAttribute="FldTagValue3" Phrase="3" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="level" FieldAttribute="FldTagValue4" Phrase="4" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="lft" FieldAttribute="FldCaption" Phrase="Левая граница" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="parent_uuid" FieldAttribute="FldCaption" Phrase="Родитель" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="percent" FieldAttribute="FldCaption" Phrase="Процент" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="position" FieldAttribute="FldCaption" Phrase="Позиция" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="rgt" FieldAttribute="FldCaption" Phrase="Правая граница" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="slug" FieldAttribute="FldCaption" Phrase="ЧПУ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="entity" FieldAttribute="FldCaption" Phrase="Сущность" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="key" FieldAttribute="FldCaption" Phrase="Ключ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="level" FieldAttribute="FldCaption" Phrase="Уровень" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="locale" FieldAttribute="FldCaption" Phrase="Локаль" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="slug" FieldAttribute="FldCaption" Phrase="ЧПУ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_1" FieldName="value" FieldAttribute="FldCaption" Phrase="Значение" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="level" FieldAttribute="FldCaption" Phrase="Уровень" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="level" FieldAttribute="FldTagCaption1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="level" FieldAttribute="FldTagCaption2" Phrase="2" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="level" FieldAttribute="FldTagCaption3" Phrase="3" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="level" FieldAttribute="FldTagCaption4" Phrase="4" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="level" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="level" FieldAttribute="FldTagValue2" Phrase="2" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="level" FieldAttribute="FldTagValue3" Phrase="3" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="level" FieldAttribute="FldTagValue4" Phrase="4" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="parent_uuid" FieldAttribute="FldCaption" Phrase="Родитель" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="position" FieldAttribute="FldCaption" Phrase="Позиция" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="slug" FieldAttribute="FldCaption" Phrase="ЧПУ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_level_2" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_type" FieldName="code" FieldAttribute="FldCaption" Phrase="Код" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_type" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_type" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_type" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_type" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_type" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_type" FieldName="position" FieldAttribute="FldCaption" Phrase="Позиция" />
+  <FieldPhrase LanguageId="ru-RU" TableName="catalog_type" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="city" FieldName="country_uuid" FieldAttribute="FldCaption" Phrase="Страна" />
+  <FieldPhrase LanguageId="ru-RU" TableName="city" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="city" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="city" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="city" FieldName="latitude" FieldAttribute="FldCaption" Phrase="Широта" />
+  <FieldPhrase LanguageId="ru-RU" TableName="city" FieldName="longitude" FieldAttribute="FldCaption" Phrase="Долгота" />
+  <FieldPhrase LanguageId="ru-RU" TableName="city" FieldName="region_uuid" FieldAttribute="FldCaption" Phrase="Регион" />
+  <FieldPhrase LanguageId="ru-RU" TableName="city" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="city" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="address" FieldAttribute="FldCaption" Phrase="Адрес" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="catalogs" FieldAttribute="FldCaption" Phrase="Каталоги" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="city_uuid" FieldAttribute="FldCaption" Phrase="Город" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="contract_signed" FieldAttribute="FldCaption" Phrase="Договор подписан" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="contract_signed" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="contract_signed" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="contract_signed" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="contract_signed" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="file_uuid" FieldAttribute="FldCaption" Phrase="Логотип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="name" FieldAttribute="FldCaption" Phrase="Название" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="owner_uuid" FieldAttribute="FldCaption" Phrase="Владелец" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="policy_accepted" FieldAttribute="FldCaption" Phrase="Политика принята" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="policy_accepted" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="policy_accepted" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="policy_accepted" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="policy_accepted" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="status" FieldAttribute="FldTagCaption1" Phrase="Ожидание" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="status" FieldAttribute="FldTagCaption2" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="status" FieldAttribute="FldTagCaption3" Phrase="Отменён" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="status" FieldAttribute="FldTagCaption4" Phrase="Заблокирован" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="status" FieldAttribute="FldTagCaption5" Phrase="Закрыт" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="status" FieldAttribute="FldTagValue1" Phrase="pending" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="status" FieldAttribute="FldTagValue2" Phrase="active" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="status" FieldAttribute="FldTagValue3" Phrase="cancelled" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="status" FieldAttribute="FldTagValue4" Phrase="blocked" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="status" FieldAttribute="FldTagValue5" Phrase="closed" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="terms_accepted" FieldAttribute="FldCaption" Phrase="Условия приняты" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="terms_accepted" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="terms_accepted" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="terms_accepted" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="terms_accepted" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldCaption" Phrase="Тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagCaption1" Phrase="Магазин" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagCaption2" Phrase="Поставщик" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagCaption3" Phrase="Курьер" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagCaption4" Phrase="Склад" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagCaption5" Phrase="Пункт выдачи" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagCaption6" Phrase="Логистика" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagCaption7" Phrase="Производитель" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagCaption8" Phrase="Фермер" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagValue1" Phrase="shop" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagValue2" Phrase="supplier" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagValue3" Phrase="courier" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagValue4" Phrase="warehouse" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagValue5" Phrase="pickup_point" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagValue6" Phrase="logistic" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagValue7" Phrase="manufacturer" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="type" FieldAttribute="FldTagValue8" Phrase="farmer" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_address" FieldName="address" FieldAttribute="FldCaption" Phrase="Адрес" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_address" FieldName="area" FieldAttribute="FldCaption" Phrase="Район" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_address" FieldName="city_uuid" FieldAttribute="FldCaption" Phrase="Город" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_address" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_address" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_address" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_address" FieldName="latitude" FieldAttribute="FldCaption" Phrase="Широта" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_address" FieldName="longitude" FieldAttribute="FldCaption" Phrase="Долгота" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_address" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_address" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_address" FieldName="volume" FieldAttribute="FldCaption" Phrase="Объём" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_contacts" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_contacts" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_contacts" FieldName="email" FieldAttribute="FldCaption" Phrase="Email" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_contacts" FieldName="facebook" FieldAttribute="FldCaption" Phrase="Facebook" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_contacts" FieldName="instagram" FieldAttribute="FldCaption" Phrase="LinkedIn" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_contacts" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_contacts" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="address" FieldAttribute="FldCaption" Phrase="Адрес" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="agree_privacy" FieldAttribute="FldCaption" Phrase="Согласие на обработку персональных данных" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="agree_privacy" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="agree_privacy" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="agree_privacy" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="agree_privacy" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="agree_terms" FieldAttribute="FldCaption" Phrase="Согласие с условиями" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="agree_terms" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="agree_terms" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="agree_terms" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="agree_terms" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="bank_name" FieldAttribute="FldCaption" Phrase="Название банка" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="bic" FieldAttribute="FldCaption" Phrase="БИК" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="corr_account" FieldAttribute="FldCaption" Phrase="Корреспондентский счёт" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="gni" FieldAttribute="FldCaption" Phrase="ГНИ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="initials" FieldAttribute="FldCaption" Phrase="Инициалы" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="inn" FieldAttribute="FldCaption" Phrase="ИНН" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="job" FieldAttribute="FldCaption" Phrase="Должность" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="legal_address" FieldAttribute="FldCaption" Phrase="Юридический адрес" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="legal_name" FieldAttribute="FldCaption" Phrase="Юридическое название" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="legal_type_uuid" FieldAttribute="FldCaption" Phrase="Организационно-правовая форма" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="okpo" FieldAttribute="FldCaption" Phrase="ОКПО" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="payment_account" FieldAttribute="FldCaption" Phrase="Расчётный счёт" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_details" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_employee" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_employee" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_employee" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_employee" FieldName="role_uuid" FieldAttribute="FldCaption" Phrase="Роль" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_employee" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_employee" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_employee" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_employee_roles" FieldName="code" FieldAttribute="FldCaption" Phrase="Код" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_employee_roles" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_feedback" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_feedback" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_feedback" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_feedback" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_feedback_image" FieldName="company_feedback_uuid" FieldAttribute="FldCaption" Phrase="Отзыв о компании" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_feedback_image" FieldName="file_uuid" FieldAttribute="FldCaption" Phrase="Файл" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_feedback_image" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_legal_type" FieldName="code" FieldAttribute="FldCaption" Phrase="Код" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_legal_type" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_promo" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_promo" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_promo" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_promo" FieldName="file_uuid" FieldAttribute="FldCaption" Phrase="Файл" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_promo" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_promo" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_question" FieldName="answered_at" FieldAttribute="FldCaption" Phrase="Отвечено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_question" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_question" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_question" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_question" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_question" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_schedule" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_schedule" FieldName="end_lunch_time" FieldAttribute="FldCaption" Phrase="Окончание обеда" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_schedule" FieldName="end_working_time" FieldAttribute="FldCaption" Phrase="Окончание работы" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_schedule" FieldName="is_working_day" FieldAttribute="FldCaption" Phrase="Рабочий день" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_schedule" FieldName="is_working_day" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_schedule" FieldName="is_working_day" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_schedule" FieldName="is_working_day" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_schedule" FieldName="is_working_day" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_schedule" FieldName="schedule_day_uuid" FieldAttribute="FldCaption" Phrase="День недели" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_schedule" FieldName="start_lunch_time" FieldAttribute="FldCaption" Phrase="Начало обеда" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_schedule" FieldName="start_working_time" FieldAttribute="FldCaption" Phrase="Начало работы" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_schedule" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_types" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_types" FieldName="mparam" FieldAttribute="FldCaption" Phrase="Параметр" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_types" FieldName="name" FieldAttribute="FldCaption" Phrase="Название" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_wallet" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_wallet" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="company_wallet" FieldName="wallet_uuid" FieldAttribute="FldCaption" Phrase="Кошелёк" />
+  <FieldPhrase LanguageId="ru-RU" TableName="consultant" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="consultant" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contract_types" FieldName="code" FieldAttribute="FldCaption" Phrase="Код" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contract_types" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contract_types" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contract_types" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contract_types" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contract_types" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contract_types" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="contract_type_uuid" FieldAttribute="FldCaption" Phrase="Тип договора" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="document_id" FieldAttribute="FldCaption" Phrase="ID документа" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="is_signed" FieldAttribute="FldCaption" Phrase="Подписан" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="is_signed" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="is_signed" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="is_signed" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="is_signed" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="receiver_accountant_inn" FieldAttribute="FldCaption" Phrase="ИНН бухгалтера получателя" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="receiver_accountant_name" FieldAttribute="FldCaption" Phrase="ФИО бухгалтера получателя" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="receiver_company_name" FieldAttribute="FldCaption" Phrase="Название компании получателя" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="reconciliation_name" FieldAttribute="FldCaption" Phrase="Наименование сверки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="reconciliation_number" FieldAttribute="FldCaption" Phrase="Номер сверки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="service_provider_uuid" FieldAttribute="FldCaption" Phrase="Поставщик услуг" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="contracts" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="country" FieldName="domain" FieldAttribute="FldCaption" Phrase="Домен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="country" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активна" />
+  <FieldPhrase LanguageId="ru-RU" TableName="country" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="courier" FieldName="city_uuid" FieldAttribute="FldCaption" Phrase="Город" />
+  <FieldPhrase LanguageId="ru-RU" TableName="courier" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="courier" FieldName="full_name" FieldAttribute="FldCaption" Phrase="Полное имя" />
+  <FieldPhrase LanguageId="ru-RU" TableName="courier" FieldName="transport_type_uuid" FieldAttribute="FldCaption" Phrase="Тип транспорта" />
+  <FieldPhrase LanguageId="ru-RU" TableName="courier" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="dark_store" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="dark_store" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="delivery_types" FieldName="code" FieldAttribute="FldCaption" Phrase="Код" />
+  <FieldPhrase LanguageId="ru-RU" TableName="delivery_types" FieldName="commission" FieldAttribute="FldCaption" Phrase="Комиссия" />
+  <FieldPhrase LanguageId="ru-RU" TableName="delivery_types" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="delivery_types" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="delivery_types" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="delivery_types" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="delivery_types" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="delivery_types" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="distributor" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="distributor" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="doctrine_migration_versions" FieldName="executed_at" FieldAttribute="FldCaption" Phrase="Выполнено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="doctrine_migration_versions" FieldName="execution_time" FieldAttribute="FldCaption" Phrase="Время выполнения" />
+  <FieldPhrase LanguageId="ru-RU" TableName="doctrine_migration_versions" FieldName="version" FieldAttribute="FldCaption" Phrase="Версия" />
+  <FieldPhrase LanguageId="ru-RU" TableName="expeditor" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="expeditor" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="farmer" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="farmer" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="bucket" FieldAttribute="FldCaption" Phrase="Бакет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="compressed" FieldAttribute="FldCaption" Phrase="Сжат" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="compressed" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="compressed" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="compressed" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="compressed" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="createdat" FieldAttribute="FldCaption" Phrase="Создан" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="filename" FieldAttribute="FldCaption" Phrase="Имя файла" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="mimetype" FieldAttribute="FldCaption" Phrase="MIME-тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="path" FieldAttribute="FldCaption" Phrase="Путь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="size" FieldAttribute="FldCaption" Phrase="Размер" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="temp" FieldAttribute="FldCaption" Phrase="Временный" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="temp" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="temp" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="temp" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="temp" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="uploaded_by" FieldAttribute="FldCaption" Phrase="Загружен пользователем" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="files" FieldName="visibility" FieldAttribute="FldCaption" Phrase="Видимость" />
+  <FieldPhrase LanguageId="ru-RU" TableName="food_point" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="food_point" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="keywords" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="languages" FieldName="code" FieldAttribute="FldCaption" Phrase="Код" />
+  <FieldPhrase LanguageId="ru-RU" TableName="languages" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="languages" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="languages" FieldName="name" FieldAttribute="FldCaption" Phrase="Название" />
+  <FieldPhrase LanguageId="ru-RU" TableName="languages" FieldName="position" FieldAttribute="FldCaption" Phrase="Позиция" />
+  <FieldPhrase LanguageId="ru-RU" TableName="manufacturer" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="manufacturer" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="messenger_messages" FieldName="available_at" FieldAttribute="FldCaption" Phrase="Доступно с" />
+  <FieldPhrase LanguageId="ru-RU" TableName="messenger_messages" FieldName="body" FieldAttribute="FldCaption" Phrase="Содержание" />
+  <FieldPhrase LanguageId="ru-RU" TableName="messenger_messages" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="messenger_messages" FieldName="delivered_at" FieldAttribute="FldCaption" Phrase="Доставлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="messenger_messages" FieldName="headers" FieldAttribute="FldCaption" Phrase="Заголовки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="messenger_messages" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="messenger_messages" FieldName="queue_name" FieldAttribute="FldCaption" Phrase="Очередь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="payment_uuid" FieldAttribute="FldCaption" Phrase="Платёж" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Реклама" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="status" FieldAttribute="FldTagCaption1" Phrase="Ожидание" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="status" FieldAttribute="FldTagCaption2" Phrase="Завершено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="status" FieldAttribute="FldTagCaption3" Phrase="Отклонено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="status" FieldAttribute="FldTagCaption4" Phrase="Возвращено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="status" FieldAttribute="FldTagValue1" Phrase="pending" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="status" FieldAttribute="FldTagValue2" Phrase="completed" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="status" FieldAttribute="FldTagValue3" Phrase="rejected" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="status" FieldAttribute="FldTagValue4" Phrase="refunded" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="tariff_uuid" FieldAttribute="FldCaption" Phrase="Тариф" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_order" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="status" FieldAttribute="FldTagCaption1" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="status" FieldAttribute="FldTagCaption2" Phrase="Неактивен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="status" FieldAttribute="FldTagCaption3" Phrase="Архив" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="status" FieldAttribute="FldTagValue1" Phrase="active" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="status" FieldAttribute="FldTagValue2" Phrase="inactive" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="status" FieldAttribute="FldTagValue3" Phrase="archived" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="type_uuid" FieldAttribute="FldCaption" Phrase="Тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="type_uuid" FieldAttribute="FldTagCaption1" Phrase="Продвижение товара" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="type_uuid" FieldAttribute="FldTagCaption2" Phrase="Закрепление товара" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="type_uuid" FieldAttribute="FldTagCaption3" Phrase="Розовая подсветка" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="type_uuid" FieldAttribute="FldTagCaption4" Phrase="Скидка" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="type_uuid" FieldAttribute="FldTagCaption5" Phrase="Рамка-выделение" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="type_uuid" FieldAttribute="FldTagValue1" Phrase="bump_item" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="type_uuid" FieldAttribute="FldTagValue2" Phrase="pin_item" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="type_uuid" FieldAttribute="FldTagValue3" Phrase="highlight_pink" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="type_uuid" FieldAttribute="FldTagValue4" Phrase="discount" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="type_uuid" FieldAttribute="FldTagValue5" Phrase="frame_highlight" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service_type" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service_type" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service_type" FieldName="slug" FieldAttribute="FldCaption" Phrase="ЧПУ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service_type" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_service_type" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_tariff" FieldName="count_of_period" FieldAttribute="FldCaption" Phrase="Количество периодов" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_tariff" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_tariff" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_tariff" FieldName="monetization_service_uuid" FieldAttribute="FldCaption" Phrase="Услуга монетизации" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_tariff" FieldName="period" FieldAttribute="FldCaption" Phrase="Период" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_tariff" FieldName="price" FieldAttribute="FldCaption" Phrase="Цена" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_tariff" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="monetization_tariff" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification" FieldName="notification_type_uuid" FieldAttribute="FldCaption" Phrase="Тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_setting" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активна" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_setting" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_setting" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_setting" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_setting" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_setting" FieldName="notification_settings_type_uuid" FieldAttribute="FldCaption" Phrase="Тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_setting" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_settings_type" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_settings_type" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_settings_type" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_settings_type" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_settings_type" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_settings_type" FieldName="slug" FieldAttribute="FldCaption" Phrase="ЧПУ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_settings_type" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_type" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_type" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_type" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_type" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_type" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_type" FieldName="slug" FieldAttribute="FldCaption" Phrase="ЧПУ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="notification_type" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order" FieldName="customer_uuid" FieldAttribute="FldCaption" Phrase="Покупатель" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order" FieldName="delivery_type_uuid" FieldAttribute="FldCaption" Phrase="Способ доставки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order" FieldName="payment_method_uuid" FieldAttribute="FldCaption" Phrase="Способ оплаты" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order" FieldName="payment_uuid" FieldAttribute="FldCaption" Phrase="Платёж" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order" FieldName="total" FieldAttribute="FldCaption" Phrase="Итого" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_address" FieldName="address" FieldAttribute="FldCaption" Phrase="Адрес" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_address" FieldName="apartment_or_unit" FieldAttribute="FldCaption" Phrase="Квартира / офис" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_address" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_address" FieldName="delivery_notes" FieldAttribute="FldCaption" Phrase="Примечание для доставки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_address" FieldName="entrance" FieldAttribute="FldCaption" Phrase="Подъезд" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_address" FieldName="floor" FieldAttribute="FldCaption" Phrase="Этаж" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_address" FieldName="intercom" FieldAttribute="FldCaption" Phrase="Домофон" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_address" FieldName="latitude" FieldAttribute="FldCaption" Phrase="Широта" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_address" FieldName="longitude" FieldAttribute="FldCaption" Phrase="Долгота" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_address" FieldName="order_uuid" FieldAttribute="FldCaption" Phrase="Заказ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_address" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_address" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_scenario" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_scenario" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_scenario" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_scenario" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_scenario" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_scenario" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_stage" FieldName="from_participant" FieldAttribute="FldCaption" Phrase="От участника" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_stage" FieldName="scenario_uuid" FieldAttribute="FldCaption" Phrase="Сценарий доставки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_stage" FieldName="special_conditions" FieldAttribute="FldCaption" Phrase="Особые условия" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_stage" FieldName="stage_order" FieldAttribute="FldCaption" Phrase="Порядок этапа" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_stage" FieldName="to_participant" FieldAttribute="FldCaption" Phrase="К участнику" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_stage" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_tracking" FieldName="end_date" FieldAttribute="FldCaption" Phrase="Дата завершения" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_tracking" FieldName="from_participant_uuid" FieldAttribute="FldCaption" Phrase="От участника" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_tracking" FieldName="notes" FieldAttribute="FldCaption" Phrase="Примечания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_tracking" FieldName="order_delivery_stage_uuid" FieldAttribute="FldCaption" Phrase="Этап доставки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_tracking" FieldName="order_product_delivery_uuid" FieldAttribute="FldCaption" Phrase="Доставка товара в заказе" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_tracking" FieldName="start_date" FieldAttribute="FldCaption" Phrase="Дата начала" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_tracking" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_tracking" FieldName="to_participant_uuid" FieldAttribute="FldCaption" Phrase="К участнику" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_delivery_tracking" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="attributes" FieldAttribute="FldCaption" Phrase="Атрибуты" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="order_uuid" FieldAttribute="FldCaption" Phrase="Заказ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="price" FieldAttribute="FldCaption" Phrase="Цена" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="product_variant_uuid" FieldAttribute="FldCaption" Phrase="Вариант товара" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="qr_path" FieldAttribute="FldCaption" Phrase="Путь к QR-коду" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="quantity" FieldAttribute="FldCaption" Phrase="Количество" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="status" FieldAttribute="FldTagCaption1" Phrase="Новый" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="status" FieldAttribute="FldTagCaption2" Phrase="В обработке" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="status" FieldAttribute="FldTagCaption3" Phrase="В пути" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="status" FieldAttribute="FldTagCaption4" Phrase="Доставлен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="status" FieldAttribute="FldTagCaption5" Phrase="Отменён" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="status" FieldAttribute="FldTagValue1" Phrase="new" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="status" FieldAttribute="FldTagValue2" Phrase="processing" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="status" FieldAttribute="FldTagValue3" Phrase="in_transit" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="status" FieldAttribute="FldTagValue4" Phrase="delivered" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="status" FieldAttribute="FldTagValue5" Phrase="canceled" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Владелец" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product_delivery" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product_delivery" FieldName="current_delivery_stage" FieldAttribute="FldCaption" Phrase="Текущий этап доставки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product_delivery" FieldName="current_status" FieldAttribute="FldCaption" Phrase="Текущий статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product_delivery" FieldName="order_product_uuid" FieldAttribute="FldCaption" Phrase="Товар в заказе" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product_delivery" FieldName="scenario_uuid" FieldAttribute="FldCaption" Phrase="Сценарий доставки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product_delivery" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="order_product_delivery" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment" FieldName="amount" FieldAttribute="FldCaption" Phrase="Сумма" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment" FieldName="title" FieldAttribute="FldCaption" Phrase="Название" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment" FieldName="type" FieldAttribute="FldCaption" Phrase="Тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment" FieldName="wallet_uuid" FieldAttribute="FldCaption" Phrase="Кошелёк" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment_methods" FieldName="code" FieldAttribute="FldCaption" Phrase="Код" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment_methods" FieldName="commission_rate" FieldAttribute="FldCaption" Phrase="Комиссия (%)" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment_methods" FieldName="file_uuid" FieldAttribute="FldCaption" Phrase="Файл" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment_methods" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment_methods" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment_methods" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment_methods" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment_methods" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment_methods" FieldName="key" FieldAttribute="FldCaption" Phrase="Ключ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="payment_methods" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="pharmacy" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="pharmacy" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="phone_number_history" FieldName="action" FieldAttribute="FldCaption" Phrase="Действие" />
+  <FieldPhrase LanguageId="ru-RU" TableName="phone_number_history" FieldName="action_date" FieldAttribute="FldCaption" Phrase="Дата действия" />
+  <FieldPhrase LanguageId="ru-RU" TableName="phone_number_history" FieldName="admin_uuid" FieldAttribute="FldCaption" Phrase="Администратор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="phone_number_history" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="phone_number_history" FieldName="phone_number" FieldAttribute="FldCaption" Phrase="Телефонный номер" />
+  <FieldPhrase LanguageId="ru-RU" TableName="phone_number_history" FieldName="reason" FieldAttribute="FldCaption" Phrase="Причина" />
+  <FieldPhrase LanguageId="ru-RU" TableName="phone_number_history" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="pickup_point" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="pickup_point" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_attribute" FieldName="attribute_uuid" FieldAttribute="FldCaption" Phrase="Атрибут" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_attribute" FieldName="options" FieldAttribute="FldCaption" Phrase="Варианты" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_attribute" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_attribute" FieldName="unit_uuid" FieldAttribute="FldCaption" Phrase="Единица измерения" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_attribute" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_attribute" FieldName="value" FieldAttribute="FldCaption" Phrase="Значение" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_dimension_type" FieldName="active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_dimension_type" FieldName="active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_dimension_type" FieldName="active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_dimension_type" FieldName="active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_dimension_type" FieldName="active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_dimension_type" FieldName="code" FieldAttribute="FldCaption" Phrase="Код" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_dimension_type" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_favorite" FieldName="added_at" FieldAttribute="FldCaption" Phrase="Добавлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_favorite" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_favorite" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_favorite" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_feedback" FieldName="answered_at" FieldAttribute="FldCaption" Phrase="Отвечено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_feedback" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_feedback" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_feedback" FieldName="stars" FieldAttribute="FldCaption" Phrase="Звёзды" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_feedback" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_feedback" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_feedback" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_feedback" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_feedback_image" FieldName="file_uuid" FieldAttribute="FldCaption" Phrase="Файл" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_feedback_image" FieldName="product_feedback_uuid" FieldAttribute="FldCaption" Phrase="Отзыв о товаре" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_feedback_image" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_image" FieldName="file_uuid" FieldAttribute="FldCaption" Phrase="Путь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_image" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_image" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_key_words" FieldName="keyword_uuid" FieldAttribute="FldCaption" Phrase="Ключевое слово" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_key_words" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_key_words" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_monetization" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_monetization" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_monetization" FieldName="end_date" FieldAttribute="FldCaption" Phrase="Дата окончания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_monetization" FieldName="monetization_service_uuid" FieldAttribute="FldCaption" Phrase="Услуга монетизации" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_monetization" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_monetization" FieldName="start_date" FieldAttribute="FldCaption" Phrase="Дата начала" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_monetization" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_monetization" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_questions" FieldName="answered_at" FieldAttribute="FldCaption" Phrase="Отвечено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_questions" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_questions" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_questions" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_questions" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_questions" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_questions" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_reaction" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_reaction" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_reaction" FieldName="type" FieldAttribute="FldCaption" Phrase="Тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_reaction" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_reaction" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_reaction" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variant_image" FieldName="file_uuid" FieldAttribute="FldCaption" Phrase="Файл" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variant_image" FieldName="product_variant_uuid" FieldAttribute="FldCaption" Phrase="Вариант товара" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variant_image" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variant_value" FieldName="product_variant_uuid" FieldAttribute="FldCaption" Phrase="Вариант товара" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variant_value" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variant_value" FieldName="variant_value_uuid" FieldAttribute="FldCaption" Phrase="Значение варианта" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variants" FieldName="barcode" FieldAttribute="FldCaption" Phrase="Штрихкод" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variants" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variants" FieldName="discount" FieldAttribute="FldCaption" Phrase="Скидка" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variants" FieldName="in_stock" FieldAttribute="FldCaption" Phrase="В наличии" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variants" FieldName="inventory" FieldAttribute="FldCaption" Phrase="Остаток" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variants" FieldName="min_batch" FieldAttribute="FldCaption" Phrase="Мин. партия" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variants" FieldName="price" FieldAttribute="FldCaption" Phrase="Цена" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variants" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variants" FieldName="sku" FieldAttribute="FldCaption" Phrase="Артикул" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variants" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_variants" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_view" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_view" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_view" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="product_view" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="barcode" FieldAttribute="FldCaption" Phrase="Штрихкод" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="brand" FieldAttribute="FldCaption" Phrase="Бренд" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="can_return" FieldAttribute="FldCaption" Phrase="Возврат возможен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="can_return" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="can_return" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="can_return" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="can_return" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="catalog_uuid" FieldAttribute="FldCaption" Phrase="Каталог" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="country_uuid" FieldAttribute="FldCaption" Phrase="Страна" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="dimension_type_uuid" FieldAttribute="FldCaption" Phrase="Тип размерности" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="discount" FieldAttribute="FldCaption" Phrase="Скидка" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="dislikes" FieldAttribute="FldCaption" Phrase="Дизлайки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="has_certificate" FieldAttribute="FldCaption" Phrase="Есть сертификат" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="has_certificate" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="has_certificate" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="has_certificate" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="has_certificate" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="has_variants" FieldAttribute="FldCaption" Phrase="Имеет варианты" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="has_variants" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="has_variants" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="has_variants" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="has_variants" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="height" FieldAttribute="FldCaption" Phrase="Высота" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="in_stock" FieldAttribute="FldCaption" Phrase="В наличии" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="inventory" FieldAttribute="FldCaption" Phrase="Остаток" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="length" FieldAttribute="FldCaption" Phrase="Длина" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="likes" FieldAttribute="FldCaption" Phrase="Лайки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="min_batch" FieldAttribute="FldCaption" Phrase="Мин. партия" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="negotiable" FieldAttribute="FldCaption" Phrase="Цена договорная" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="negotiable" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="negotiable" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="negotiable" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="negotiable" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="owner_uuid" FieldAttribute="FldCaption" Phrase="Владелец" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="price" FieldAttribute="FldCaption" Phrase="Цена" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="sku" FieldAttribute="FldCaption" Phrase="Артикул" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="sorting_date" FieldAttribute="FldCaption" Phrase="Дата сортировки" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="updated_by" FieldAttribute="FldCaption" Phrase="Обновил" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="views" FieldAttribute="FldCaption" Phrase="Просмотры" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="weight" FieldAttribute="FldCaption" Phrase="Вес" />
+  <FieldPhrase LanguageId="ru-RU" TableName="products" FieldName="width" FieldAttribute="FldCaption" Phrase="Ширина" />
+  <FieldPhrase LanguageId="ru-RU" TableName="region" FieldName="country_uuid" FieldAttribute="FldCaption" Phrase="Страна" />
+  <FieldPhrase LanguageId="ru-RU" TableName="region" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="region" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="region" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="region" FieldName="latitude" FieldAttribute="FldCaption" Phrase="Широта" />
+  <FieldPhrase LanguageId="ru-RU" TableName="region" FieldName="longitude" FieldAttribute="FldCaption" Phrase="Долгота" />
+  <FieldPhrase LanguageId="ru-RU" TableName="region" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="region" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="related_products" FieldName="product_uuid" FieldAttribute="FldCaption" Phrase="Товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="related_products" FieldName="related_product_uuid" FieldAttribute="FldCaption" Phrase="Сопутствующий товар" />
+  <FieldPhrase LanguageId="ru-RU" TableName="related_products" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="schedule_day" FieldName="position" FieldAttribute="FldCaption" Phrase="Позиция" />
+  <FieldPhrase LanguageId="ru-RU" TableName="schedule_day" FieldName="slug" FieldAttribute="FldCaption" Phrase="ЧПУ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="schedule_day" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="base_url" FieldAttribute="FldCaption" Phrase="Базовый URL" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="company_inn" FieldAttribute="FldCaption" Phrase="ИНН компании" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="description" FieldAttribute="FldCaption" Phrase="Описание" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="main_account_inn" FieldAttribute="FldCaption" Phrase="ИНН основного счёта" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="name" FieldAttribute="FldCaption" Phrase="Название" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="secret_key" FieldAttribute="FldCaption" Phrase="Секретный ключ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="type" FieldAttribute="FldCaption" Phrase="Тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="type" FieldAttribute="FldTagCaption1" Phrase="Договорной" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="type" FieldAttribute="FldTagCaption2" Phrase="По акту" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="type" FieldAttribute="FldTagValue1" Phrase="contractual" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="type" FieldAttribute="FldTagValue2" Phrase="act_based" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="service_providers" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="shop" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="shop" FieldName="shop_type" FieldAttribute="FldCaption" Phrase="Тип магазина" />
+  <FieldPhrase LanguageId="ru-RU" TableName="shop" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="day_count" FieldAttribute="FldCaption" Phrase="Количество дней" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активна" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="is_popular" FieldAttribute="FldCaption" Phrase="Популярна" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="is_popular" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="is_popular" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="is_popular" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="is_popular" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="options" FieldAttribute="FldCaption" Phrase="Опции" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="price" FieldAttribute="FldCaption" Phrase="Цена" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription_order" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription_order" FieldName="payment_uuid" FieldAttribute="FldCaption" Phrase="Платёж" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription_order" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription_order" FieldName="subscription_uuid" FieldAttribute="FldCaption" Phrase="Подписка" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription_order" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription_order" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="subscription_order" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="account_uuid" FieldAttribute="FldCaption" Phrase="Счёт" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="amount" FieldAttribute="FldCaption" Phrase="Сумма" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="currency" FieldAttribute="FldCaption" Phrase="Валюта" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="description" FieldAttribute="FldCaption" Phrase="Описание" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="organisation" FieldAttribute="FldCaption" Phrase="Организация" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="rc" FieldAttribute="FldCaption" Phrase="RC" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="rrn" FieldAttribute="FldCaption" Phrase="RRN" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="terminal" FieldAttribute="FldCaption" Phrase="Терминал" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="type" FieldAttribute="FldCaption" Phrase="Тип" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transactions" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation" FieldName="entity" FieldAttribute="FldCaption" Phrase="Сущность" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation" FieldName="key" FieldAttribute="FldCaption" Phrase="Ключ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation" FieldName="locale" FieldAttribute="FldCaption" Phrase="Локаль" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation" FieldName="value" FieldAttribute="FldCaption" Phrase="Значение" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_catalog" FieldName="entity" FieldAttribute="FldCaption" Phrase="Сущность" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_catalog" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_catalog" FieldName="key" FieldAttribute="FldCaption" Phrase="Ключ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_catalog" FieldName="locale" FieldAttribute="FldCaption" Phrase="Локаль" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_catalog" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_catalog" FieldName="value" FieldAttribute="FldCaption" Phrase="Значение" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_keys" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_keys" FieldName="name" FieldAttribute="FldCaption" Phrase="Название" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_params" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_params" FieldName="name" FieldAttribute="FldCaption" Phrase="Название" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_subscription" FieldName="entity" FieldAttribute="FldCaption" Phrase="Сущность" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_subscription" FieldName="id" FieldAttribute="FldCaption" Phrase="ID" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_subscription" FieldName="key" FieldAttribute="FldCaption" Phrase="Ключ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_subscription" FieldName="locale" FieldAttribute="FldCaption" Phrase="Локаль" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_subscription" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="translation_subscription" FieldName="value" FieldAttribute="FldCaption" Phrase="Значение" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transport_types" FieldName="file_uuid" FieldAttribute="FldCaption" Phrase="Файл" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transport_types" FieldName="slug" FieldAttribute="FldCaption" Phrase="ЧПУ" />
+  <FieldPhrase LanguageId="ru-RU" TableName="transport_types" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="units" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="city_uuid" FieldAttribute="FldCaption" Phrase="Город" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="gender" FieldAttribute="FldCaption" Phrase="Пол" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="image" FieldAttribute="FldCaption" Phrase="Изображение" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="middle_name" FieldAttribute="FldCaption" Phrase="Отчество" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="name" FieldAttribute="FldCaption" Phrase="Имя" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="passport" FieldAttribute="FldCaption" Phrase="Паспорт" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="passport_issued_by" FieldAttribute="FldCaption" Phrase="Кем выдан" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="passport_issued_date" FieldAttribute="FldCaption" Phrase="Дата выдачи" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="pin" FieldAttribute="FldCaption" Phrase="PIN" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="policy_accepted" FieldAttribute="FldCaption" Phrase="Политика принята" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="policy_accepted" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="policy_accepted" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="policy_accepted" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="policy_accepted" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="roles" FieldAttribute="FldCaption" Phrase="Роли" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="sure_name" FieldAttribute="FldCaption" Phrase="Фамилия" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="country" FieldAttribute="FldCaption" Phrase="Страна" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="district" FieldAttribute="FldCaption" Phrase="Район" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="house_number" FieldAttribute="FldCaption" Phrase="Номер дома" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="is_default" FieldAttribute="FldCaption" Phrase="По умолчанию" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="is_default" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="is_default" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="is_default" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="is_default" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="latitude" FieldAttribute="FldCaption" Phrase="Широта" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="longitude" FieldAttribute="FldCaption" Phrase="Долгота" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="postal_code" FieldAttribute="FldCaption" Phrase="Почтовый индекс" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="region" FieldAttribute="FldCaption" Phrase="Регион" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="street" FieldAttribute="FldCaption" Phrase="Улица" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="useruuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_address" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_contacts" FieldName="email" FieldAttribute="FldCaption" Phrase="Email" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_contacts" FieldName="email_verified" FieldAttribute="FldCaption" Phrase="Email подтверждён" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_contacts" FieldName="email_verified" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_contacts" FieldName="email_verified" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_contacts" FieldName="email_verified" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_contacts" FieldName="email_verified" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_contacts" FieldName="useruuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_contacts" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification" FieldName="notification_uuid" FieldAttribute="FldCaption" Phrase="Уведомление" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification_setting" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification_setting" FieldName="is_active" FieldAttribute="FldCaption" Phrase="Активна" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification_setting" FieldName="is_active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification_setting" FieldName="is_active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification_setting" FieldName="is_active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification_setting" FieldName="is_active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification_setting" FieldName="notification_setting_uuid" FieldAttribute="FldCaption" Phrase="Настройка уведомлений" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification_setting" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification_setting" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_notification_setting" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_phone" FieldName="active" FieldAttribute="FldCaption" Phrase="Активен" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_phone" FieldName="active" FieldAttribute="FldTagCaption1" Phrase="Да" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_phone" FieldName="active" FieldAttribute="FldTagCaption2" Phrase="Нет" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_phone" FieldName="active" FieldAttribute="FldTagValue1" Phrase="1" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_phone" FieldName="active" FieldAttribute="FldTagValue2" Phrase="0" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_phone" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_phone" FieldName="phone_number" FieldAttribute="FldCaption" Phrase="Телефонный номер" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_phone" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_phone" FieldName="useruuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_phone" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_subscription" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_subscription" FieldName="end_date" FieldAttribute="FldCaption" Phrase="Дата окончания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_subscription" FieldName="options" FieldAttribute="FldCaption" Phrase="Опции" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_subscription" FieldName="start_date" FieldAttribute="FldCaption" Phrase="Дата начала" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_subscription" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_subscription" FieldName="subscription_uuid" FieldAttribute="FldCaption" Phrase="Подписка" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_subscription" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_subscription" FieldName="user_uuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_subscription" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_verifications" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_verifications" FieldName="documents" FieldAttribute="FldCaption" Phrase="Документы" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_verifications" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_verifications" FieldName="updated_at" FieldAttribute="FldCaption" Phrase="Обновлено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_verifications" FieldName="useruuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_verifications" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_verifications" FieldName="verified_at" FieldAttribute="FldCaption" Phrase="Верифицировано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_wallet" FieldName="useruuid" FieldAttribute="FldCaption" Phrase="Пользователь" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_wallet" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="user_wallet" FieldName="wallet_uuid" FieldAttribute="FldCaption" Phrase="Кошелёк" />
+  <FieldPhrase LanguageId="ru-RU" TableName="variant" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="variant_group" FieldName="catalog_uuid" FieldAttribute="FldCaption" Phrase="Каталог" />
+  <FieldPhrase LanguageId="ru-RU" TableName="variant_group" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="variant_group" FieldName="variant_uuid" FieldAttribute="FldCaption" Phrase="Вариант" />
+  <FieldPhrase LanguageId="ru-RU" TableName="variant_value" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="variant_value" FieldName="variant_uuid" FieldAttribute="FldCaption" Phrase="Вариант" />
+  <FieldPhrase LanguageId="ru-RU" TableName="wallet" FieldName="account_number" FieldAttribute="FldCaption" Phrase="Номер счёта" />
+  <FieldPhrase LanguageId="ru-RU" TableName="wallet" FieldName="created_at" FieldAttribute="FldCaption" Phrase="Создано" />
+  <FieldPhrase LanguageId="ru-RU" TableName="wallet" FieldName="deleted_at" FieldAttribute="FldCaption" Phrase="Удалено" />
+  <FieldPhrase LanguageId="ru-RU" TableName="wallet" FieldName="status" FieldAttribute="FldCaption" Phrase="Статус" />
+  <FieldPhrase LanguageId="ru-RU" TableName="wallet" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="warehouse" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="warehouse" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+  <FieldPhrase LanguageId="ru-RU" TableName="webmaster" FieldName="company_uuid" FieldAttribute="FldCaption" Phrase="Компания" />
+  <FieldPhrase LanguageId="ru-RU" TableName="webmaster" FieldName="uuid" FieldAttribute="FldCaption" Phrase="Идентификатор" />
+</LanguagePhrases>
